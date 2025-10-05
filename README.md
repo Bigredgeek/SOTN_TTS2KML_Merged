@@ -89,12 +89,6 @@ The Python scripts:
 - Collects generated KML files
 - Cleans up temporary files
 
-### TTS2KML.py (in each map folder)
-- Reads map-specific transformation data
-- Processes units based on map layer
-- Generates KML with sorted layers for NATO/PACT/undeclared units as defined by the Tag in TTS
-- Maintains unit styling and imagery
-
 ### AnalyzeTTS.py (in each map folder)
 - Calculates the coordinate transformation parameters for each map layer
 - Uses a system of known reference points (cities) to calibrate the map
@@ -110,6 +104,31 @@ The Python scripts:
      - Easting parameters (longitude transformation)
      - Northing parameters (latitude transformation)
      - Map bounds for coordinate validation
+
+### TTS2KML.py (in each map folder)
+- Creates KML files for Google Earth visualization using the pykml library
+- Implements a GeoReferencedMap class for coordinate transformation
+- Process:
+  1. Loads transformation parameters from `tts2lola.json`:
+     - Scale and offset for longitude (easting)
+     - Scale and offset for latitude (northing)
+     - Map boundary coordinates
+  2. Processes unit positions:
+     - Reads unit transforms from TTS save file
+     - Converts game coordinates to relative positions
+     - Transforms relative positions to real-world coordinates
+     - Validates positions against map boundaries
+  3. Handles both direct units and contained objects:
+     - Direct units: Placed directly on the map
+     - Contained units: Units in bags/containers that share parent position
+  4. Generates KML structure:
+     - Creates unique styles for each unit type using their custom images
+     - Organizes units into separate folders:
+       * NATO forces (units with 'NATO' tag)
+       * PACT forces (units with 'WP' tag)
+       * Undefined/Neutral (units with 'Marker' tag)
+     - Preserves unit names, imagery, and positioning
+     - Generates valid KML format with proper XML structure
 
 ## Troubleshooting
 

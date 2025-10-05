@@ -67,11 +67,13 @@ with open('TTS.json') as ttsFile:
 def relativeOffset(objectTransform, mapTransform):
     x = (objectTransform['posX']-mapTransform['posX'])/mapTransform['scaleX']
     z = (objectTransform['posZ']-mapTransform['posZ'])/mapTransform['scaleZ']
-    # undo saved rotation+mirror by swapping axes
-    return (z, x)
+    # Output raw offsets: return (x, z)
+    return (x, z)
 
 def constructMatrix(counters, index):
-    array = [[relativeOffset(c[1],mapT)[index],1] for c in counters]
+    positions = [relativeOffset(c[1], mapT) for c in counters]
+    # 2D quadratic regression: [x^2, y^2, x*y, x, y, 1]
+    array = [[pos[1]**2, pos[0]**2, pos[1]*pos[0], pos[1], pos[0], 1] for pos in positions]
     return np.matrix(array)
 
 def getGeoLocations(counters, component):
@@ -90,29 +92,81 @@ def getGeoLocations(counters, component):
             arr.append(val)
     return np.matrix(arr).transpose()
 
-def solve(counters, index, component):
-    if len(counters) < 2:
-        raise ValueError("Need at least two city markers to compute scale+offset (found {}).".format(len(counters)))
+def solve_ransac(counters, index, component, n_iter=100, threshold=0.01):
+    # RANSAC for robust 2D quadratic fitting
+    if len(counters) < 6:
+        raise ValueError("Need at least six city markers to compute 2D quadratic transformation (found {}).".format(len(counters)))
+    best_inliers = []
+    best_coeffs = None
+    positions = [relativeOffset(c[1], mapT) for c in counters]
+    targets = []
+    for c in counters:
+        try:
+            town = towns[c[0]]
+            targets.append(town[component])
+        except Exception:
+            targets.append(None)
+    for _ in range(n_iter):
+        # Randomly sample 6 points
+        idxs = np.random.choice(len(counters), 6, replace=False)
+        sample_counters = [counters[i] for i in idxs]
+        m = constructMatrix(sample_counters, index)
+        v = getGeoLocations(sample_counters, component)
+        try:
+            mT = m.transpose()
+            M = np.matmul(mT, m)
+            V = np.matmul(mT, v)
+            R = np.linalg.solve(M, V)
+        except Exception:
+            continue
+        # Evaluate all points
+        inliers = []
+        for i, pos in enumerate(positions):
+            x, y = pos[1], pos[0]
+            pred = (
+                R.item(0)*x**2 + R.item(1)*y**2 + R.item(2)*x*y + R.item(3)*x + R.item(4)*y + R.item(5)
+            )
+            target = targets[i]
+            if target is None:
+                continue
+            if abs(pred - target) < threshold:
+                inliers.append(i)
+        if len(inliers) > len(best_inliers):
+            best_inliers = inliers
+            best_coeffs = tuple(float(R.item(i)) for i in range(6))
+    # Refit using all inliers
+    if best_inliers and len(best_inliers) >= 6:
+        final_counters = [counters[i] for i in best_inliers]
+        m = constructMatrix(final_counters, index)
+        v = getGeoLocations(final_counters, component)
+        mT = m.transpose()
+        M = np.matmul(mT, m)
+        V = np.matmul(mT, v)
+        R = np.linalg.solve(M, V)
+        return tuple(float(R.item(i)) for i in range(6))
+    # fallback to least squares if RANSAC fails
     m = constructMatrix(counters, index)
     v = getGeoLocations(counters, component)
-    if m.shape[0] != v.shape[0]:
-        raise ValueError(f"Matrix row mismatch: m rows={m.shape[0]} v rows={v.shape[0]}; check that all counters have town coords")
-    mT= m.transpose()
-    M = np.matmul(mT,m)
-    V = np.matmul(mT,v)
-    R = np.linalg.solve(M,V)
-    return (float(R.item(0)), float(R.item(1)))
+    mT = m.transpose()
+    M = np.matmul(mT, m)
+    V = np.matmul(mT, v)
+    R = np.linalg.solve(M, V)
+    return tuple(float(R.item(i)) for i in range(6))
+
+def solve(counters, index, component):
+    # Use RANSAC robust fitting
+    return solve_ransac(counters, index, component, n_iter=200, threshold=0.01)
 
 # Validate we found map and enough city markers
 if not mapT:
     raise SystemExit("Map transform not found in TTS.json; make sure the map object's Nickname matches expected names.")
 
 print(f"Collected {len(cityCounters)} candidate city markers: {[c[0] for c in cityCounters]}")
-if len(cityCounters) < 2:
-    raise SystemExit("Insufficient city markers to compute mapping. Check Tags in TTS.json and towns.lua keys.")
+if len(cityCounters) < 6:
+    raise SystemExit("Insufficient city markers to compute 2D quadratic mapping. Need at least 6.")
 
-easting = solve(cityCounters,0,'longitude')
-northing = solve(cityCounters,1,'latitude')
+easting = solve(cityCounters, 0, 'longitude')  # (a, b, c, d, e, f)
+northing = solve(cityCounters, 1, 'latitude')  # (a, b, c, d, e, f)
 
 def getBounds():
     with open('Bounds.json') as boundsFile:
@@ -131,16 +185,30 @@ def getBounds():
 bounds = getBounds()
 
 with open('tts2lola.json','w') as out:
-    data ={
-        'easting':{'scale': easting[0], 'offset':easting[1]},
-        'northing':{'scale': northing[0], 'offset':northing[1]},
-        'bounds':bounds
+    data = {
+        'easting': {
+            'a': easting[0], 'b': easting[1], 'c': easting[2],
+            'd': easting[3], 'e': easting[4], 'f': easting[5]
+        },
+        'northing': {
+            'a': northing[0], 'b': northing[1], 'c': northing[2],
+            'd': northing[3], 'e': northing[4], 'f': northing[5]
+        },
+        'bounds': {
+            'NorthEast': [bounds['NorthEast'][1], bounds['NorthEast'][0]],
+            'SouthWest': [bounds['SouthWest'][1], bounds['SouthWest'][0]]
         }
+    }
     json.dump(data, out, indent=4)
     
 for cityCounter in cityCounters:
     pos = relativeOffset(cityCounter[1], mapT)
-    geo = (pos[1]*easting[0]+easting[1], pos[0]*northing[0]+northing[1])
+    # Use 2D quadratic transformation for error reporting
+    x, y = pos[1], pos[0]
+    geo = (
+        easting[0]*x**2 + easting[1]*y**2 + easting[2]*x*y + easting[3]*x + easting[4]*y + easting[5],
+        northing[0]*x**2 + northing[1]*y**2 + northing[2]*x*y + northing[3]*x + northing[4]*y + northing[5]
+    )
     try:
         town = towns[cityCounter[0]]
         lon = town['longitude']; lat = town['latitude']

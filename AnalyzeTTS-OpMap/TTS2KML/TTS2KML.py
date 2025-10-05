@@ -17,16 +17,30 @@ class GeoReferencedMap:
     def relativeOffset(self, objectTransform):
         x = (objectTransform['posX']-self.mapTransform['posX'])/self.mapTransform['scaleX']
         z = (objectTransform['posZ']-self.mapTransform['posZ'])/self.mapTransform['scaleZ']
-        # undo saved rotation+mirror by swapping axes
+        # Flip east/west: mirror x, no rotation
         return (z, x)
     
     def toLoLa(self, transform):
-        x,y = self.relativeOffset(transform)
-        if( x < self.data['bounds']['SouthWest'][0] or y < self.data['bounds']['SouthWest'][1] or x > self.data['bounds']['NorthEast'][0] or y > self.data['bounds']['NorthEast'][1]):
+        x, y = self.relativeOffset(transform)
+        if (
+            x < self.data['bounds']['SouthWest'][0] or y < self.data['bounds']['SouthWest'][1] or
+            x > self.data['bounds']['NorthEast'][0] or y > self.data['bounds']['NorthEast'][1]
+        ):
             return None
         easting = self.data['easting']
         northing = self.data['northing']
-        return (x*easting['scale']+easting['offset'], y*northing['scale']+northing['offset'])
+        # 2D quadratic transformation: lon = a*x^2 + b*y^2 + c*x*y + d*x + e*y + f
+        lon = (
+            easting['a'] * x**2 + easting['b'] * y**2 + easting['c'] * x * y +
+            easting['d'] * x + easting['e'] * y + easting['f']
+        )
+        lat = (
+            northing['a'] * x**2 + northing['b'] * y**2 + northing['c'] * x * y +
+            northing['d'] * x + northing['e'] * y + northing['f']
+        )
+        # Apply longitude-dependent latitude correction (tilt/shear)
+        lat += -0.02 * x  # Adjust -0.04 as needed for best fit
+        return (lon, lat)
 
 def toKmlCoord(point):
     return f"{point[0]},{point[1]}"
@@ -39,7 +53,9 @@ def exportKml(doc, group):
     wayPoints = []
 
     for wp in group.points[1:]:
-        wayPoints.append(KML.Placemark(KML.name(wp.name),KML.styleUrl(f'#{stylename}'), toKmlPoint(wp)))
+        # Use the waypoint name as the style name, matching createKmlDoc logic
+        style_name = wp.name.replace(' ', '')
+        wayPoints.append(KML.Placemark(KML.name(wp.name), KML.styleUrl(f'#{style_name}'), toKmlPoint(wp)))
         linePoints.append(toKmlCoord(wp))
 
     routeLine = KML.Placemark(KML.name(routeName), KML.LineString(KML.coordinates("\n".join(linePoints))))

@@ -95,6 +95,22 @@ The Python scripts:
 - Generates KML with sorted layers for NATO/PACT/undeclared units as defined by the Tag in TTS
 - Maintains unit styling and imagery
 
+### AnalyzeTTS.py (in each map folder)
+- Calculates the coordinate transformation parameters for each map layer
+- Uses a system of known reference points (cities) to calibrate the map
+- Works in conjunction with `towns.lua` which contains real-world city coordinates
+- Process:
+  1. Loads city locations from `towns.lua` (real-world lat/long coordinates)
+  2. Finds city markers in the TTS save file by matching nicknames
+  3. Calculates transformation matrix using city positions:
+     - Compares TTS coordinates (X,Y,Z) to real-world coordinates
+     - Solves for scale and offset parameters
+     - Accounts for map rotation and mirroring
+  4. Generates `tts2lola.json` containing:
+     - Easting parameters (longitude transformation)
+     - Northing parameters (latitude transformation)
+     - Map bounds for coordinate validation
+
 ## Troubleshooting
 
 1. **Python Path Issues**:

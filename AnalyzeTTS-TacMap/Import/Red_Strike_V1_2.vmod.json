@@ -1,0 +1,2455 @@
+{
+    "NATO Units": {
+        "AMF": {
+            "AMF": {
+                "1 Bde AMF": {
+                    "front_png": "AMF_F_2.png",
+                    "back_png": "AMF_B_2.png"
+                },
+                "1 Bn AMF": {
+                    "front_png": "AMF_F_1.png",
+                    "back_png": ""
+                },
+                "Para Rgt AMF": {
+                    "front_png": "AMF_F_3.png",
+                    "back_png": "AMF_B_3.png"
+                }
+            }
+        },
+        "BE": {
+            "1 Corps Troops": {
+                "I Corps BE": {
+                    "front_png": "1C_NL_F_1.png",
+                    "back_png": ""
+                },
+                "1 JtP BE": {
+                    "front_png": "1C_NL_F_2.png",
+                    "back_png": "1C_NL_B_2.png"
+                },
+                "2 JtP BE": {
+                    "front_png": "1C_NL_F_4.png",
+                    "back_png": "1C_NL_B_4.png"
+                },
+                "4 CC BE": {
+                    "front_png": "1C_NL_F_3.png",
+                    "back_png": "1C_NL_B_3.png"
+                },
+                "3 Missile Rgt I Corps BE": {
+                    "front_png": "1C_NL_F_5.png",
+                    "back_png": "1C_NL_B_5.png"
+                }
+            },
+            "16 PzD": {
+                "HQ/16PzD BE": {
+                    "front_png": "16PD_BE_F_1.png",
+                    "back_png": ""
+                },
+                "4/16 PzD BE": {
+                    "front_png": "16PD_BE_F_4.png",
+                    "back_png": "16PD_BE_B_4.png"
+                },
+                "10/16 PzD BE": {
+                    "front_png": "16PD_BE_F_2.png",
+                    "back_png": "16PD_BE_B_2.png"
+                },
+                "17/16 PzD BE": {
+                    "front_png": "16PD_BE_F_3.png",
+                    "back_png": "16PD_BE_B_3.png"
+                }
+            },
+            "1 MID": {
+                "HQ/1MID BE": {
+                    "front_png": "1MID_BE_F_4.png",
+                    "back_png": ""
+                },
+                "1/1MID BE": {
+                    "front_png": "1MID_BE_F_2.png",
+                    "back_png": "1MID_BE_B_2.png"
+                },
+                "7/1MID BE": {
+                    "front_png": "1MID_BE_F_3.png",
+                    "back_png": "1MID_BE_B_3.png"
+                },
+                "12/1MID BE": {
+                    "front_png": "1MID_BE_F_1.png",
+                    "back_png": "1MID_BE_B_1.png"
+                }
+            },
+            "Air": {
+                "1 Sqd BE": {
+                    "front_png": "NATO-BE_Air_F_1.png",
+                    "back_png": "NATO-BE_Air_B_1.png"
+                },
+                "2 Sqd BE": {
+                    "front_png": "NATO-BE_Air_F_2.png",
+                    "back_png": "NATO-BE_Air_B_2.png"
+                },
+                "23 Sqd BE": {
+                    "front_png": "NATO-BE_Air_F_3.png",
+                    "back_png": "NATO-BE_Air_B_3.png"
+                },
+                "31 Sqd BE": {
+                    "front_png": "NATO-BE_Air_F_4.png",
+                    "back_png": "NATO-BE_Air_B_4.png"
+                },
+                "7 Sqd BE": {
+                    "front_png": "NATO-BE_Air_F_8.png",
+                    "back_png": "NATO-BE_Air_B_8.png"
+                },
+                "33 Sqd BE": {
+                    "front_png": "NATO-BE_Air_F_5.png",
+                    "back_png": "NATO-BE_Air_B_5.png"
+                },
+                "349 Sqd BE": {
+                    "front_png": "NATO-BE_Air_F_6.png",
+                    "back_png": "NATO-BE_Air_B_6.png"
+                },
+                "350 Sqd BE": {
+                    "front_png": "NATO-BE_Air_F_7.png",
+                    "back_png": "NATO-BE_Air_B_7.png"
+                },
+                "8 Sqd BE": {
+                    "front_png": "NATO-BE_Air_F_9.png",
+                    "back_png": "NATO-BE_Air_B_9.png"
+                }
+            },
+            "Naval": {
+                "BE SAG Wielingen": {
+                    "front_png": "BE-Naval_2.png",
+                    "back_png": "BE-Naval_1.png"
+                }
+            }
+        },
+        "CN": {
+            "1 DIv CA": {
+                "HQ/1Div CA": {
+                    "front_png": "1ID_CN_F_1.png",
+                    "back_png": ""
+                },
+                "4/1 Div CA": {
+                    "front_png": "1ID_CN_F_3.png",
+                    "back_png": "1ID_CN_B_3.png"
+                },
+                "5/1 Div CA": {
+                    "front_png": "1ID_CN_F_2.png",
+                    "back_png": "1ID_CN_B_2.png"
+                }
+            },
+            "Air": {
+                "409 Sqd": {
+                    "front_png": "NATO-CN_Air_F_1.png",
+                    "back_png": "NATO-CN_Air_B_1.png"
+                },
+                "421 Sqd": {
+                    "front_png": "NATO-CN_Air_F_2.png",
+                    "back_png": "NATO-CN_Air_B_1.png"
+                },
+                "433 Sqd": {
+                    "front_png": "NATO-CN_Air_F_3.png",
+                    "back_png": "NATO-CN_Air_B_1.png"
+                },
+                "434 Sqd": {
+                    "front_png": "NATO-CN_Air_F_4.png",
+                    "back_png": "NATO-CN_Air_B_1.png"
+                },
+                "439 Sqd": {
+                    "front_png": "NATO-CN_Air_F_5.png",
+                    "back_png": "NATO-CN_Air_B_1.png"
+                }
+            },
+            "Naval": {
+                "CN SAG St. Laurent": {
+                    "front_png": "CN-Naval_F2.png",
+                    "back_png": "CN-Naval_B2.png"
+                },
+                "CN SS Oberon": {
+                    "front_png": "CN-Naval_F1.png",
+                    "back_png": "CN-Naval_B1.png"
+                }
+            }
+        },
+        "DN": {
+            "LandJut Corps": {
+                "HQ/LandJut Corps DN": {
+                    "front_png": "Landjut_F_1.png",
+                    "back_png": ""
+                },
+                "Slesv.F/LJ Corps DN": {
+                    "front_png": "JBG_F_3.png",
+                    "back_png": "JBG_B_3.png"
+                },
+                "LJBG/LJ Corps DN": {
+                    "front_png": "JBG_F_4.png",
+                    "back_png": "JBG_B_4.png"
+                },
+                "3 KJF/LJ Corps DN": {
+                    "front_png": "JBG_F_1.png",
+                    "back_png": ""
+                },
+                "4 Jyd.D/LJ Corps DN": {
+                    "front_png": "JBG_F_2.png",
+                    "back_png": ""
+                }
+            },
+            "DN LandZea Corps": {
+                "HQ/LandZea Corps DN": {
+                    "front_png": "LandZea_F_1.png",
+                    "back_png": ""
+                },
+                "1Z/LZ Corps DN": {
+                    "front_png": "LandZea_F_3.png",
+                    "back_png": "LandZea_B_3.png"
+                },
+                "2Z/LZ Corps DN": {
+                    "front_png": "LandZea_F_4.png",
+                    "back_png": "LandZea_B_4.png"
+                },
+                "LZBG/LZ Corps DN": {
+                    "front_png": "LandZea_F_5.png",
+                    "back_png": "LandZea_B_5.png"
+                },
+                "4 DKL/LZ Corps DN": {
+                    "front_png": "LandZea_F_2.png",
+                    "back_png": ""
+                }
+            },
+            "JD Div": {
+                "HQ/LandJut DN": {
+                    "front_png": "JD_F_1.png",
+                    "back_png": ""
+                },
+                "1J/LD Div DN": {
+                    "front_png": "JD_F_3.png",
+                    "back_png": "JD_B_3.png"
+                },
+                "2J/LD Div DN": {
+                    "front_png": "JD_F_4.png",
+                    "back_png": "JD_B_4.png"
+                },
+                "3J/LD Div DN": {
+                    "front_png": "JD_F_5.png",
+                    "back_png": "JD_B_5.png"
+                },
+                "4 Fyn/LD Div DN": {
+                    "front_png": "JD_F_6.png",
+                    "back_png": "JD_B_6.png"
+                },
+                "5 Jyd/LD Div DN": {
+                    "front_png": "JD_F_7.png",
+                    "back_png": "JD_B_7.png"
+                },
+                "6 Jyd/LD Div DN": {
+                    "front_png": "JD_F_2.png",
+                    "back_png": "JD_B_2.png"
+                }
+            },
+            "Air": {
+                "723 Sqd DN": {
+                    "front_png": "NATO-DN_Air_F_1.png",
+                    "back_png": "NATO-DN_Air_B_1.png"
+                },
+                "726 Sqd DN": {
+                    "front_png": "NATO-DN_Air_F_2.png",
+                    "back_png": "NATO-DN_Air_B_2.png"
+                },
+                "727 Sqd DN": {
+                    "front_png": "NATO-DN_Air_F_3.png",
+                    "back_png": "NATO-DN_Air_B_3.png"
+                },
+                "730 Sqd DN": {
+                    "front_png": "NATO-DN_Air_F_4.png",
+                    "back_png": "NATO-DN_Air_B_1.png"
+                },
+                "725 Sqd DN": {
+                    "front_png": "NATO-DN_Air_F_5.png",
+                    "back_png": "NATO-DN_Air_B_5.png"
+                },
+                "729 Sqd DN": {
+                    "front_png": "NATO-DN_Air_F_6.png",
+                    "back_png": "NATO-DN_Air_B_5.png"
+                }
+            },
+            "Naval": {
+                "DN Esdadre 2 Willemoes": {
+                    "front_png": "DN-Naval_F2.png",
+                    "back_png": "DN-Naval_B2.png"
+                },
+                "DN Esdadre 1 N. Juel": {
+                    "front_png": "DN-Naval_F1.png",
+                    "back_png": "DN-Naval_B1.png"
+                },
+                "DN SS Kobben": {
+                    "front_png": "DN-Naval_F3.png",
+                    "back_png": "DN-Naval_B3.png"
+                }
+            }
+        },
+        "FR": {
+            "French Res Inf Bde's": {
+                "102 Bde FR": {
+                    "front_png": "Inf Res_FR_F_2.png",
+                    "back_png": "Inf Res_FR_B_2.png"
+                },
+                "107 Bde": {
+                    "front_png": "Inf Res_FR_F_3.png",
+                    "back_png": "Inf Res_FR_B_3.png"
+                },
+                "108 Bde": {
+                    "front_png": "Inf Res_FR_F_4.png",
+                    "back_png": "Inf Res_FR_B_4.png"
+                },
+                "110 Bde": {
+                    "front_png": "Inf Res_FR_F_5.png",
+                    "back_png": "Inf Res_FR_B_5.png"
+                },
+                "24 Rgt": {
+                    "front_png": "Inf Res_FR_F_1.png",
+                    "back_png": "Inf Res_FR_B_1.png"
+                }
+            },
+            "I Corps FR": {
+                "I Corps FR": {
+                    "front_png": "IC_FR_F_1.png",
+                    "back_png": ""
+                },
+                "14 DLB 1C FR": {
+                    "front_png": "IC_FR_F_4.png",
+                    "back_png": "IC_FR_B_4.png"
+                },
+                "1 DB 1C FR": {
+                    "front_png": "IC_FR_F_5.png",
+                    "back_png": "IC_FR_B_5.png"
+                },
+                "7 DB 1C FR": {
+                    "front_png": "IC_FR_F_6.png",
+                    "back_png": "IC_FR_B_6.png"
+                },
+                "12 DLB 1C FR": {
+                    "front_png": "IC_FR_F_2.png",
+                    "back_png": "IC_FR_B_2.png"
+                },
+                "8 H 1C FR": {
+                    "front_png": "IC_FR_F_3.png",
+                    "back_png": "IC_FR_B_3.png"
+                },
+                "3 Missile Rgt": {
+                    "front_png": "IC_FR_F_8.png",
+                    "back_png": "IC_FR_B_7.png"
+                },
+                "15 Missile Rgt": {
+                    "front_png": "IC_FR_F_7.png",
+                    "back_png": "IC_FR_B_7.png"
+                },
+                "11 GHL IC Attk Av FR": {
+                    "front_png": "NATO-FR_Air_F_11.png",
+                    "back_png": "NATO-FR_Air_B_11.png"
+                },
+                "7 RHC IC Attk Av FR": {
+                    "front_png": "NATO-FR_Air_F_48.png",
+                    "back_png": "NATO-FR_Air_B_48.png"
+                }
+            },
+            "II Corps FR": {
+                "II Corps FR": {
+                    "front_png": "IIC_FR_F_1.png",
+                    "back_png": ""
+                },
+                "15 Div IIC FR": {
+                    "front_png": "IIC_FR_F_5.png",
+                    "back_png": "IIC_FR_B_5.png"
+                },
+                "3 DB IIC FR": {
+                    "front_png": "IIC_FR_F_3.png",
+                    "back_png": "IIC_FR_B_3.png"
+                },
+                "5 DB IIC FR": {
+                    "front_png": "IIC_FR_F_4.png",
+                    "back_png": "IIC_FR_B_4.png"
+                },
+                "3 H IIC FR": {
+                    "front_png": "IIC_FR_F_2.png",
+                    "back_png": "IIC_FR_B_2.png"
+                },
+                "32 Missile Rgt": {
+                    "front_png": "IIC_FR_F_6.png",
+                    "back_png": "IIC_FR_B_6.png"
+                },
+                "74 Missile Rgt": {
+                    "front_png": "IIC_FR_F_7.png",
+                    "back_png": "IIC_FR_B_6.png"
+                },
+                "12 GHL IIC Attk Av FR": {
+                    "front_png": "NATO-FR_Air_F_12.png",
+                    "back_png": "NATO-FR_Air_B_12.png"
+                },
+                "2 RHC IIC Attk Av FR": {
+                    "front_png": "NATO-FR_Air_F_29.png",
+                    "back_png": "NATO-FR_Air_B_29.png"
+                }
+            },
+            "III Corps FR": {
+                "III Corps FR": {
+                    "front_png": "FR-IIIC_F_1.png",
+                    "back_png": ""
+                },
+                "8 Div IIIC FR": {
+                    "front_png": "FR-IIIC_F_5.png",
+                    "back_png": "FR-IIIC_B_5.png"
+                },
+                "2 DB IIIC FR": {
+                    "front_png": "FR-IIIC_F_3.png",
+                    "back_png": "FR-IIIC_B_3.png"
+                },
+                "10 DB IIIC FR": {
+                    "front_png": "FR-IIIC_F_4.png",
+                    "back_png": "FR-IIIC_B_4.png"
+                },
+                "2 H IIIC FR": {
+                    "front_png": "FR-IIIC_F_2.png",
+                    "back_png": "FR-IIIC_B_2.png"
+                },
+                "4 Missile Rgt": {
+                    "front_png": "FR-IIIC_F_7.png",
+                    "back_png": "FR-IIIC_B_6.png"
+                },
+                "19 Missile Rgt": {
+                    "front_png": "FR-IIIC_F_6.png",
+                    "back_png": "FR-IIIC_B_6.png"
+                },
+                "6 RHC IIIC Attk Av FR": {
+                    "front_png": "NATO-FR_Air_F_46.png",
+                    "back_png": "NATO-FR_Air_B_46.png"
+                }
+            },
+            "FAR Corps FR": {
+                "FAR Corps FR": {
+                    "front_png": "FR-FAR_F_1.png",
+                    "back_png": ""
+                },
+                "6 DLB FAR FR": {
+                    "front_png": "FR-FAR_F_2.png",
+                    "back_png": "FR-FAR_B_2.png"
+                },
+                "11 Para Bde FAR FR": {
+                    "front_png": "FR-FAR_F_4.png",
+                    "back_png": "FR-FAR_B_4.png"
+                },
+                "11 Para Grp FAR FR": {
+                    "front_png": "FR-FAR_F_5.png",
+                    "back_png": "FR-FAR_B_5.png"
+                },
+                "27 Div FAR FR": {
+                    "front_png": "FR-FAR_F_3.png",
+                    "back_png": "FR-FAR_B_3.png"
+                },
+                "9 Mar Div FAR FR": {
+                    "front_png": "FR-FAR_F_6.png",
+                    "back_png": "FR-FAR_B_6.png"
+                },
+                "1 RCAM 4 DA FR": {
+                    "front_png": "FR-FAR_F_8.png",
+                    "back_png": "FR-FAR_B_8.png"
+                },
+                "1 RHC 4DA FR": {
+                    "front_png": "NATO-FR_Air_F_15.png",
+                    "back_png": "NATO-FR_Air_B_15.png"
+                },
+                "3 RHC 4DA FR": {
+                    "front_png": "NATO-FR_Air_F_42.png",
+                    "back_png": "NATO-FR_Air_B_42.png"
+                },
+                "5 RHC 4DA FR": {
+                    "front_png": "NATO-FR_Air_F_45.png",
+                    "back_png": "NATO-FR_Air_B_45.png"
+                },
+                "4 DA HQ FR": {
+                    "front_png": "FR-FAR_F_7.png",
+                    "back_png": ""
+                }
+            },
+            "Naval": {
+                "FR R99 Foch (Carrier)": {
+                    "front_png": "FR-Naval_F3.png",
+                    "back_png": "FR-Naval_B3.png"
+                },
+                "FR SAG G. Leyues": {
+                    "front_png": "FR-Naval_F4.png",
+                    "back_png": "FR-Naval_B4.png"
+                },
+                "FR SS Daphne": {
+                    "front_png": "FR-Naval_F5.png",
+                    "back_png": "FR-Naval_B5.png"
+                },
+                "FR SSN Rubis ": {
+                    "front_png": "FR-Naval_F6.png",
+                    "back_png": "FR-Naval_B6.png"
+                },
+                "FR SSBN 1 Le Redou.": {
+                    "front_png": "FR-Naval_F1.png",
+                    "back_png": "FR-Naval_B1.png"
+                },
+                "FR SSBN 2 Le Redou.": {
+                    "front_png": "FR-Naval_F2.png",
+                    "back_png": "FR-Naval_B1.png"
+                }
+            },
+            "Berlin Bde": {
+                "FFB (Berlin)": {
+                    "front_png": "BAOR_F_14.png",
+                    "back_png": "BAOR_B_14.png"
+                }
+            }
+        },
+        "NL": {
+            "1 LK (Corps)": {
+                "1 LK NL": {
+                    "front_png": "ILK NL_F_1.png",
+                    "back_png": ""
+                },
+                "105 Bn NL": {
+                    "front_png": "ILK NL_F_5.png",
+                    "back_png": "ILK NL_B_5.png"
+                },
+                "101 Bde NL": {
+                    "front_png": "ILK NL_F_2.png",
+                    "back_png": "ILK NL_B_2.png"
+                },
+                "302 Bde NL": {
+                    "front_png": "ILK NL_F_3.png",
+                    "back_png": "ILK NL_B_3.png"
+                },
+                "304 Bde NL": {
+                    "front_png": "ILK NL_F_4.png",
+                    "back_png": "ILK NL_B_4.png"
+                },
+                "129 Missile Rgt": {
+                    "front_png": "ILK NL_F_6.png",
+                    "back_png": "ILK NL_B_6.png"
+                }
+            },
+            "1 MID": {
+                "1 MID NL": {
+                    "front_png": "1MID NL_F_1.png",
+                    "back_png": ""
+                },
+                "11 Bde NL": {
+                    "front_png": "1MID NL_F_3.png",
+                    "back_png": "1MID NL_B_3.png"
+                },
+                "12 Bde NL": {
+                    "front_png": "1MID NL_F_4.png",
+                    "back_png": "1MID NL_B_4.png"
+                },
+                "13 Bde NL": {
+                    "front_png": "1MID NL_F_2.png",
+                    "back_png": "1MID NL_B_2.png"
+                }
+            },
+            "4 ID": {
+                "4 ID NL": {
+                    "front_png": "4D_NL_F_1.png",
+                    "back_png": ""
+                },
+                "42 Bde NL": {
+                    "front_png": "4D_NL_F_2.png",
+                    "back_png": "4D_NL_B_2.png"
+                },
+                "43 Bde NL": {
+                    "front_png": "4D_NL_F_3.png",
+                    "back_png": "4D_NL_B_3.png"
+                }
+            },
+            "5 ID": {
+                "5 DR NL": {
+                    "front_png": "5DR_NL_F_1.png",
+                    "back_png": ""
+                },
+                "51 Bde NL": {
+                    "front_png": "5DR_NL_F_2.png",
+                    "back_png": "5DR_NL_B_2.png"
+                },
+                "52 Bde NL": {
+                    "front_png": "5DR_NL_F_3.png",
+                    "back_png": "5DR_NL_B_3.png"
+                },
+                "53 Bde NL": {
+                    "front_png": "5DR_NL_F_4.png",
+                    "back_png": "5DR_NL_B_4.png"
+                }
+            },
+            "NL3 WG PzD": {
+                "41 Bde NL 3 PzD WG": {
+                    "front_png": "3PzD_F_4.png",
+                    "back_png": "3PzD_B_4.png"
+                }
+            },
+            "Air": {
+                "306 Sqd NL": {
+                    "front_png": "NATO-NL_Air_F1.png",
+                    "back_png": "NATO-NL_Air_B1.png"
+                },
+                "311 Sqd NL": {
+                    "front_png": "NATO-NL_Air_F2.png",
+                    "back_png": "NATO-NL_Air_B1.png"
+                },
+                "312 Sqd NL": {
+                    "front_png": "NATO-NL_Air_F3.png",
+                    "back_png": "NATO-NL_Air_B1.png"
+                },
+                "313 Sqd NL": {
+                    "front_png": "NATO-NL_Air_F4.png",
+                    "back_png": "NATO-NL_Air_B1.png"
+                },
+                "315 Sqd NL": {
+                    "front_png": "NATO-NL_Air_F6.png",
+                    "back_png": "NATO-NL_Air_B1.png"
+                },
+                "322 Sqd NL": {
+                    "front_png": "NATO-NL_Air_F8.png",
+                    "back_png": "NATO-NL_Air_B1.png"
+                },
+                "323 Sqd NL": {
+                    "front_png": "NATO-NL_Air_F9.png",
+                    "back_png": "NATO-NL_Air_B1.png"
+                },
+                "314 Sqd NL": {
+                    "front_png": "NATO-NL_Air_F5.png",
+                    "back_png": "NATO-NL_Air_B5.png"
+                },
+                "316 Sqd NL": {
+                    "front_png": "NATO-NL_Air_F7.png",
+                    "back_png": "NATO-NL_Air_B5.png"
+                }
+            },
+            "Naval": {
+                "NL SAG J.v. Heemskerck": {
+                    "front_png": "NL-Naval_F1.png",
+                    "back_png": "NL-Naval_B1.png"
+                },
+                "NL SS Dolfijn": {
+                    "front_png": "NL-Naval_F2.png",
+                    "back_png": "NL-Naval_B2.png"
+                }
+            }
+        },
+        "SP": {
+            "Spainish Forces": {
+                "1 AD SP": {
+                    "front_png": "Spanish_SP_F_2.png",
+                    "back_png": "Spanish_SP_B_2.png"
+                },
+                "2 Div SP": {
+                    "front_png": "Spanish_SP_F_5.png",
+                    "back_png": "Spanish_SP_B_5.png"
+                },
+                "3 Div SP": {
+                    "front_png": "Spanish_SP_F_4.png",
+                    "back_png": "Spanish_SP_B_4.png"
+                },
+                "BRILAT Bde SP": {
+                    "front_png": "Spanish_SP_F_1.png",
+                    "back_png": "Spanish_SP_B_1.png"
+                },
+                "BRIPAC Bde SP": {
+                    "front_png": "Spanish_SP_F_3.png",
+                    "back_png": "Spanish_SP_B_3.png"
+                }
+            },
+            "Air": {
+                "14/141 Sqd SP": {
+                    "front_png": "NATO-SP_Air_F1.png",
+                    "back_png": "NATO-SP_Air_B1.png"
+                },
+                "15/151 Sqd SP": {
+                    "front_png": "NATO-SP_Air_F2.png",
+                    "back_png": "NATO-SP_Air_B2.png"
+                },
+                "15/152 Sqd SP": {
+                    "front_png": "NATO-SP_Air_F3.png",
+                    "back_png": "NATO-SP_Air_B2.png"
+                }
+            }
+        },
+        "UK": {
+            "BAOR": {
+                "NORTHAG/BAOR HQ": {
+                    "front_png": "BAOR_F_1.png",
+                    "back_png": ""
+                },
+                "Berlin Bde UK": {
+                    "front_png": "BAOR_F_11.png",
+                    "back_png": "BAOR_B_11.png"
+                },
+                "FKG2 Missile WG": {
+                    "front_png": "BAOR_F_15.png",
+                    "back_png": "BAOR_B_15.png"
+                }
+            },
+            "I Corps UK": {
+                "I Corps UK": {
+                    "front_png": "IC_UK_F_1.png",
+                    "back_png": ""
+                },
+                "5 Ab Bde UK": {
+                    "front_png": "IC_UK_F_2.png",
+                    "back_png": "IC_UK_B_2.png"
+                },
+                "50 Missile Rgt": {
+                    "front_png": "IC_UK_F_3.png",
+                    "back_png": "IC_UK_B_3.png"
+                },
+                "664 Sqd Attk Av UK": {
+                    "front_png": "NATO-UK-Helo_Air_F4.png",
+                    "back_png": "NATO-UK-Helo_Air_B4.png"
+                }
+            },
+            "1 AD": {
+                "1 AD   IC(UK)": {
+                    "front_png": "IAD_UK_F_1.png",
+                    "back_png": ""
+                },
+                "7 Bde 1AD UK": {
+                    "front_png": "IAD_UK_F_4.png",
+                    "back_png": "IAD_UK_B_3.png"
+                },
+                "12 Bde 1AD UK": {
+                    "front_png": "IAD_UK_F_2.png",
+                    "back_png": "IAD_UK_B_1.png"
+                },
+                "22 Bde 1AD UK": {
+                    "front_png": "IAD_UK_F_3.png",
+                    "back_png": "IAD_UK_B_2.png"
+                },
+                "1QDG 1AD UK": {
+                    "front_png": "IAD_UK_F_5.png",
+                    "back_png": "IAD_UK_B_4.png"
+                },
+                "1 Attk Av UK": {
+                    "front_png": "NATO-UK-Helo_Air_F1.png",
+                    "back_png": "NATO-UK-Helo_Air_B1.png"
+                }
+            },
+            "3 AD": {
+                "3 AD   IC(UK)": {
+                    "front_png": "3AD_UK_F_1.png",
+                    "back_png": ""
+                },
+                "4 Bde 3AD UK": {
+                    "front_png": "3AD_UK_F_3.png",
+                    "back_png": "3AD_UK_B_3.png"
+                },
+                "6 Bde 3AD UK": {
+                    "front_png": "3AD_UK_F_2.png",
+                    "back_png": "3AD_UK_B_2.png"
+                },
+                "33 Bde 3AD UK": {
+                    "front_png": "3AD_UK_F_5.png",
+                    "back_png": "3AD_UK_B_5.png"
+                },
+                "9-12/3AD UK": {
+                    "front_png": "3AD_UK_F_4.png",
+                    "back_png": "3AD_UK_B_4.png"
+                },
+                "3 Attk Av UK": {
+                    "front_png": "NATO-UK-Helo_Air_F2.png",
+                    "back_png": "NATO-UK-Helo_Air_B2.png"
+                }
+            },
+            "4 AD": {
+                "4 AD   IC(UK)": {
+                    "front_png": "4AD_UK_F_1.png",
+                    "back_png": ""
+                },
+                "11 Bde 4AD UK": {
+                    "front_png": "4AD_UK_F_2.png",
+                    "back_png": "4AD_UK_B_2.png"
+                },
+                "20 Bde 4AD UK": {
+                    "front_png": "4AD_UK_F_3.png",
+                    "back_png": "4AD_UK_B_3.png"
+                },
+                "19 Bde 4AD UK": {
+                    "front_png": "4AD_UK_F_5.png",
+                    "back_png": "4AD_UK_B_5.png"
+                },
+                "16-5/4AD UK": {
+                    "front_png": "4AD_UK_F_4.png",
+                    "back_png": "4AD_UK_B_4.png"
+                },
+                "4 Attk Av UK": {
+                    "front_png": "NATO-UK-Helo_Air_F3.png",
+                    "back_png": "NATO-UK-Helo_Air_B3.png"
+                }
+            },
+            "2 ID": {
+                "2 ID   IC(UK)": {
+                    "front_png": "2ID_UK_F_1.png",
+                    "back_png": ""
+                },
+                "15 Bde 2ID UK": {
+                    "front_png": "2ID_UK_F_3.png",
+                    "back_png": "2ID_UK_B_3.png"
+                },
+                "24 Bde 2ID UK": {
+                    "front_png": "2ID_UK_F_2.png",
+                    "back_png": "2ID_UK_B_2.png"
+                },
+                "49 Bde 2ID UK": {
+                    "front_png": "2ID_UK_F_4.png",
+                    "back_png": "2ID_UK_B_4.png"
+                },
+                "655 Attk Av UK": {
+                    "front_png": "NATO-UK-Helo_Air_F6.png",
+                    "back_png": "NATO-UK-Helo_Air_B6.png"
+                }
+            },
+            "LANDJUT": {
+                "1 UKMF Bde UK": {
+                    "front_png": "6PzG_F_5.png",
+                    "back_png": "6PzG_B_5.png"
+                }
+            },
+            "Naval": {
+                "UK AAW Sheffield": {
+                    "front_png": "UK-Naval_F1.png",
+                    "back_png": "UK-Naval_B1.png"
+                },
+                "UK ASW 1 Broadsword": {
+                    "front_png": "UK-Naval_F2.png",
+                    "back_png": "UK-Naval_B2.png"
+                },
+                "UK ASW 2 Amazon": {
+                    "front_png": "UK-Naval_F3.png",
+                    "back_png": "UK-Naval_B3.png"
+                },
+                "UK MCM Hunt": {
+                    "front_png": "UK-Naval_F7.png",
+                    "back_png": "UK-Naval_B7.png"
+                },
+                "UK R05 Invincible (Carrier)": {
+                    "front_png": "UK-Naval_F4.png",
+                    "back_png": "UK-Naval_B4.png"
+                },
+                "UK R06 Illustrious (Carrier)": {
+                    "front_png": "UK-Naval_F5.png",
+                    "back_png": "UK-Naval_B5.png"
+                },
+                "UK R07 Ark Royal (Carrier)": {
+                    "front_png": "UK-Naval_F6.png",
+                    "back_png": "UK-Naval_B6.png"
+                },
+                "UK SS 1 Oberon": {
+                    "front_png": "UK-Naval_F8.png",
+                    "back_png": "UK-Naval_B9.png"
+                },
+                "UK SS 2 Oberon": {
+                    "front_png": "UK-Naval_F9.png",
+                    "back_png": "UK-Naval_B8.png"
+                },
+                "UK SSN Trafalgar": {
+                    "front_png": "UK-Naval_F11.png",
+                    "back_png": "UK-Naval_B11.png"
+                },
+                "UK SSBN Resolution": {
+                    "front_png": "UK-Naval_F10.png",
+                    "back_png": "UK-Naval_B10.png"
+                }
+            },
+            "Helos": {
+                "829/815 UK": {
+                    "front_png": "NATO-UK-Helo_Air_F5.png",
+                    "back_png": "NATO-UK-Helo_Air_B5.png"
+                }
+            }
+        },
+        "US": {
+            "LANDJUT(9ID)": {
+                "HQ/9ID": {
+                    "front_png": "9ID_F_1.png",
+                    "back_png": ""
+                },
+                "2/9 9ID": {
+                    "front_png": "9ID_F_2.png",
+                    "back_png": "9ID_B_2.png"
+                },
+                "1/9ID": {
+                    "front_png": "9ID_F_4.png",
+                    "back_png": "9ID_B_4.png"
+                },
+                "3/9ID": {
+                    "front_png": "9ID_F_3.png",
+                    "back_png": "9ID_B_3.png"
+                },
+                "81/9ID": {
+                    "front_png": "9ID_F_5.png",
+                    "back_png": "9ID_B_5.png"
+                },
+                "2-9 9ID Attk Av": {
+                    "front_png": "NATO-US_Helo_F15.png",
+                    "back_png": "NATO-US_Helo_B15.png"
+                }
+            },
+            "CENTAG/7A": {
+                "CENTAG HQ": {
+                    "front_png": "7A_US_F_1.png",
+                    "back_png": ""
+                },
+                "3/325 AbBn": {
+                    "front_png": "7A_US_F_7.png",
+                    "back_png": ""
+                },
+                "HQ 82 AbD": {
+                    "front_png": "7A_US_F_6.png",
+                    "back_png": "7A_US_B_6.png"
+                },
+                "1 82AbD": {
+                    "front_png": "82_US_F_1.png",
+                    "back_png": "82_US_B_1.png"
+                },
+                "2 82AbD": {
+                    "front_png": "82_US_F_2.png",
+                    "back_png": "82_US_B_2.png"
+                },
+                "3 82AbD": {
+                    "front_png": "82_US_F_3.png",
+                    "back_png": "82_US_B_3.png"
+                },
+                "HQ 101 ASLT DIV": {
+                    "front_png": "7A_US_F_5.png",
+                    "back_png": "7A_US_B_5.png"
+                },
+                "1 101AAsslt": {
+                    "front_png": "101_US_B_1.png",
+                    "back_png": "101_US_F_1.png"
+                },
+                "2 101AAsslt": {
+                    "front_png": "101_US_B_2.png",
+                    "back_png": "101_US_F_2.png"
+                },
+                "3 101AAsslt": {
+                    "front_png": "101_US_B_3.png",
+                    "back_png": "101_US_F_3.png"
+                },
+                "HQ 24ID": {
+                    "front_png": "7A_US_B_8.png",
+                    "back_png": ""
+                },
+                "1/24ID": {
+                    "front_png": "24ID_US_F_1.png",
+                    "back_png": "24ID_US_B_1.png"
+                },
+                "2/24ID": {
+                    "front_png": "24ID_US_F_2.png",
+                    "back_png": "24ID_US_B_2.png"
+                },
+                "3/24ID": {
+                    "front_png": "24ID_US_F_3.png",
+                    "back_png": "24ID_US_B_3.png"
+                },
+                "56 Missile Bde US": {
+                    "front_png": "7A_US_F_9.png",
+                    "back_png": "7A_US_B_9.png"
+                },
+                "38 TMW": {
+                    "front_png": "7A_US_F_2.png",
+                    "back_png": "7A_US_B_2.png"
+                },
+                "487 TMW": {
+                    "front_png": "7A_US_F_3.png",
+                    "back_png": "7A_US_B_2.png"
+                },
+                "501 TMW": {
+                    "front_png": "7A_US_F_4.png",
+                    "back_png": "7A_US_B_2.png"
+                },
+                "FKG 1": {
+                    "front_png": "7A_WG_F_14.png",
+                    "back_png": "7A_WG_B_14.png"
+                },
+                "82 Attk Av": {
+                    "front_png": "NATO-US_Helo_F26.png",
+                    "back_png": "NATO-US_Helo_B26.png"
+                },
+                "1-101 Attk Av": {
+                    "front_png": "NATO-US_Helo_F8.png",
+                    "back_png": "NATO-US_Helo_B8.png"
+                },
+                "3-101 Attk Av": {
+                    "front_png": "NATO-US_Helo_F27.png",
+                    "back_png": "NATO-US_Helo_B27.png"
+                },
+                "24 Attk Av": {
+                    "front_png": "NATO-US_Helo_F16.png",
+                    "back_png": "NATO-US_Helo_B16.png"
+                }
+            },
+            "2M Div": {
+                "2M Div HQ": {
+                    "front_png": "2Mar_F_1.png",
+                    "back_png": ""
+                },
+                "2/2M Div": {
+                    "front_png": "2Mar_F_2.png",
+                    "back_png": "2Mar_B_2.png"
+                },
+                "6/2M Div": {
+                    "front_png": "2Mar_F_3.png",
+                    "back_png": "2Mar_B_3.png"
+                },
+                "8/2M Div": {
+                    "front_png": "2Mar_F_4.png",
+                    "back_png": "2Mar_B_4.png"
+                },
+                "LF6F/2M Div": {
+                    "front_png": "2Mar_F_5.png",
+                    "back_png": "2Mar_B_5.png"
+                }
+            },
+            "SOUTHAG/7A": {
+                "SOUTHAG HQ": {
+                    "front_png": "SOUTHAG_US_F_2.png",
+                    "back_png": ""
+                }
+            },
+            "Berlin Bde": {
+                "502 Inf (Berlin)": {
+                    "front_png": "BAOR_F_12.png",
+                    "back_png": "BAOR_B_12.png"
+                }
+            }
+        },
+        "WG": {
+            "12PzD (US VII Corps)": {
+                "HQ/12PzD": {
+                    "front_png": "12Pz_GE_F_1.png",
+                    "back_png": ""
+                },
+                "Rec 12PzD": {
+                    "front_png": "12Pz_GE_F_5.png",
+                    "back_png": "12Pz_GE_B_5.png"
+                },
+                "34/10PzD": {
+                    "front_png": "12Pz_GE_F_2.png",
+                    "back_png": "12Pz_GE_B_2.png"
+                },
+                "35/12PzD": {
+                    "front_png": "12Pz_GE_F_4.png",
+                    "back_png": "12Pz_GE_B_4.png"
+                },
+                "36/10PzD": {
+                    "front_png": "12Pz_GE_F_3.png",
+                    "back_png": "12Pz_GE_B_3.png"
+                }
+            },
+            "3PzD (NL I Corps)": {
+                "HQ/3PzD": {
+                    "front_png": "3PzD_F_1.png",
+                    "back_png": ""
+                },
+                "Rec 3PzD": {
+                    "front_png": "3PzD_F_6.png",
+                    "back_png": "3PzD_B_6.png"
+                },
+                "7/3PzD": {
+                    "front_png": "3PzD_F_5.png",
+                    "back_png": "3PzD_B_5.png"
+                },
+                "8/3PzD": {
+                    "front_png": "3PzD_F_2.png",
+                    "back_png": "3PzD_B_2.png"
+                },
+                "9/3PzD": {
+                    "front_png": "3PzD_F_3.png",
+                    "back_png": "3PzD_B_3.png"
+                }
+            },
+            "6PzG (LANDJUT)": {
+                "HQ/6PzG": {
+                    "front_png": "6PzG_F_8.png",
+                    "back_png": ""
+                },
+                "Rec 6PzG": {
+                    "front_png": "6PzG_F_6.png",
+                    "back_png": "6PzG_B_6.png"
+                },
+                "16/6PzG": {
+                    "front_png": "6PzG_F_3.png",
+                    "back_png": "6PzG_B_3.png"
+                },
+                "17/6PzG": {
+                    "front_png": "6PzG_F_4.png",
+                    "back_png": "6PzG_B_4.png"
+                },
+                "18/6PzG": {
+                    "front_png": "6PzG_F_2.png",
+                    "back_png": "6PzG_B_2.png"
+                },
+                "51/6PzG": {
+                    "front_png": "6PzG_F_1.png",
+                    "back_png": "6PzG_B_1.png"
+                },
+                "650 Missile Bn 6PzG": {
+                    "front_png": "6PzG_F_7.png",
+                    "back_png": "6PzG_B_7.png"
+                },
+                "HFR6 Attk Av": {
+                    "front_png": "NATO-WG_Air_F_2.png",
+                    "back_png": "NATO-WG_Air_B_2.png"
+                }
+            },
+            "Berlin Police": {
+                "Berlin Police Bde": {
+                    "front_png": "BAOR_F_13.png",
+                    "back_png": "BAOR_B_13.png"
+                }
+            },
+            "Naval": {
+                "WG 2.ZGschw Hamburg": {
+                    "front_png": "WG-Naval_F1.png",
+                    "back_png": "WG-Naval_B1.png"
+                },
+                "WG 4.Fgeschw Bremen": {
+                    "front_png": "WG-Naval_F2.png",
+                    "back_png": "WG-Naval_B2.png"
+                },
+                "WG 1.ZGschw Lutjens": {
+                    "front_png": "WG-Naval_F__1.png",
+                    "back_png": "WG-Naval_B__1.png"
+                },
+                "WG SS 1 205 Type": {
+                    "front_png": "WG-Naval_F3.png",
+                    "back_png": "WG-Naval_B3.png"
+                },
+                "WG SS 2 206 Type": {
+                    "front_png": "WG-Naval_F4.png",
+                    "back_png": "WG-Naval_B4.png"
+                },
+                "WG SS 3 206 Type": {
+                    "front_png": "WG-Naval_F5.png",
+                    "back_png": "WG-Naval_B4.png"
+                }
+            }
+        },
+        "LUX": {
+            "Air": {
+                "1 Sqd EWDA": {
+                    "front_png": "NATO-LX_Air_F1.png",
+                    "back_png": "NATO-LX_Air_B1.png"
+                },
+                "2 Sqd EWDA": {
+                    "front_png": "NATO-LX_Air_F2.png",
+                    "back_png": "NATO-LX_Air_B1.png"
+                },
+                "3 Sqd EWDA": {
+                    "front_png": "NATO-LX_Air_F3.png",
+                    "back_png": "NATO-LX_Air_B1.png"
+                }
+            }
+        },
+        "IT": {
+            "Air": {
+                "6 Stormo/155": {
+                    "front_png": "NATO-IT_Air_F_1.png",
+                    "back_png": "NATO-IT_Air_B1.png"
+                }
+            }
+        },
+        "Norway": {
+            "Naval": {
+                "NO Oslo": {
+                    "front_png": "NO-Naval_F1.png",
+                    "back_png": "NO-Naval_B1.png"
+                },
+                "NO SS Ula": {
+                    "front_png": "NO-Naval_F2.png",
+                    "back_png": "NO-Naval_B2.png"
+                }
+            },
+            "Air": {
+                "333 Sqd NO": {
+                    "front_png": "NATO-NO_Air_F3.png",
+                    "back_png": "NATO-NO_Air_B3.png"
+                },
+                "337 Sqd NO": {
+                    "front_png": "NATO-NO_Air_F6.png",
+                    "back_png": "NATO-NO_Air_B6.png"
+                },
+                "331 Sqd NO": {
+                    "front_png": "NATO-NO_Air_F1.png",
+                    "back_png": "NATO-NO_Air_B1.png"
+                },
+                "332 Sqd NO": {
+                    "front_png": "NATO-NO_Air_F2.png",
+                    "back_png": "NATO-NO_Air_B1.png"
+                },
+                "334 Sqd NO": {
+                    "front_png": "NATO-NO_Air_F4.png",
+                    "back_png": "NATO-NO_Air_B1.png"
+                },
+                "338 Sqd NO": {
+                    "front_png": "NATO-NO_Air_F7.png",
+                    "back_png": "NATO-NO_Air_B1.png"
+                },
+                "336 Sqd NO": {
+                    "front_png": "NATO-NO_Air_F5.png",
+                    "back_png": "NATO-NO_Air_B5.png"
+                }
+            }
+        },
+        "Sweden": {
+            "Sweden Air": {
+                "F10/1 Sqd SW": {
+                    "front_png": "NATO-SD_Air_F1.png",
+                    "back_png": "NATO-SD_Air_B1.png"
+                },
+                "F10/2 Sqd SW": {
+                    "front_png": "NATO-SD_Air_F2.png",
+                    "back_png": "NATO-SD_Air_B1.png"
+                },
+                "F10/3 Sqd SW": {
+                    "front_png": "NATO-SD_Air_F3.png",
+                    "back_png": "NATO-SD_Air_B1.png"
+                },
+                "F13 Sqd SW": {
+                    "front_png": "NATO-SD_Air_F4.png",
+                    "back_png": "NATO-SD_Air_B4.png"
+                },
+                "F15 Sqd SW": {
+                    "front_png": "NATO-SD_Air_F5.png",
+                    "back_png": "NATO-SD_Air_B5.png"
+                },
+                "F16 Sqd SW": {
+                    "front_png": "NATO-SD_Air_F6.png",
+                    "back_png": "NATO-SD_Air_B6.png"
+                },
+                "F17 Sqd SW": {
+                    "front_png": "NATO-SD_Air_F7.png",
+                    "back_png": "NATO-SD_Air_B7.png"
+                },
+                "F21 Sqd SW": {
+                    "front_png": "NATO-SD_Air_F8.png",
+                    "back_png": "NATO-SD_Air_B8.png"
+                },
+                "F4 Sqd SW": {
+                    "front_png": "NATO-SD_Air_F9.png",
+                    "back_png": "NATO-SD_Air_B9.png"
+                },
+                "F6 Sqd SW": {
+                    "front_png": "NATO-SD_Air_F10.png",
+                    "back_png": "NATO-SD_Air_B10.png"
+                },
+                "F7 Sqd SW": {
+                    "front_png": "NATO-SD_Air_F11.png",
+                    "back_png": "NATO-SD_Air_B11.png"
+                }
+            }
+        }
+    },
+    "WP Units": {
+        "CZ": {
+            "1 Army": {
+                "SW F 1A HQ CZ": {
+                    "front_png": "1A_CZ_F_1.png",
+                    "back_png": ""
+                },
+                "2MRD CZ": {
+                    "front_png": "1A_CZ_F_5.png",
+                    "back_png": "1A_CZ_B_5.png"
+                },
+                "19MRD CZ": {
+                    "front_png": "1A_CZ_F_3.png",
+                    "back_png": "1A_CZ_B_3.png"
+                },
+                "20MRD CZ": {
+                    "front_png": "1A_CZ_F_4.png",
+                    "back_png": "1A_CZ_B_4.png"
+                },
+                "1TD CZ": {
+                    "front_png": "1A_CZ_F_2.png",
+                    "back_png": "1A_CZ_B_2.png"
+                },
+                "321 (CZ) Missile Bde": {
+                    "front_png": "1A_CZ_F_6.png",
+                    "back_png": "1A_CZ_B_6.png"
+                },
+                "1 HR/1 CZ": {
+                    "front_png": "WP-CZ_Air_F21.png",
+                    "back_png": "WP-CZ_Air_B21.png"
+                },
+                "1 HR/2 CZ": {
+                    "front_png": "WP-CZ_Air_F22.png",
+                    "back_png": "WP-CZ_Air_B22.png"
+                }
+            },
+            "4 Army": {
+                "SW F 4A HQ CZ": {
+                    "front_png": "4A_CZ_F_1.png",
+                    "back_png": ""
+                },
+                "3MRD-B CZ": {
+                    "front_png": "4A_CZ_F_8.png",
+                    "back_png": "4A_CZ_B_8.png"
+                },
+                "3MRD-A CZ": {
+                    "front_png": "4A_CZ_F_9.png",
+                    "back_png": "4A_CZ_B_9.png"
+                },
+                "15MRD-B CZ": {
+                    "front_png": "4A_CZ_F_6.png",
+                    "back_png": "4A_CZ_B_6.png"
+                },
+                "15MRD-A CZ": {
+                    "front_png": "4A_CZ_F_7.png",
+                    "back_png": "4A_CZ_B_7.png"
+                },
+                "4TD-B CZ": {
+                    "front_png": "4A_CZ_F_2.png",
+                    "back_png": "4A_CZ_B_2.png"
+                },
+                "4TD-A CZ": {
+                    "front_png": "4A_CZ_F_3.png",
+                    "back_png": "4A_CZ_B_3.png"
+                },
+                "9TD-B CZ": {
+                    "front_png": "4A_CZ_F_4.png",
+                    "back_png": "4A_CZ_B_4.png"
+                },
+                "9TD-A CZ": {
+                    "front_png": "4A_CZ_F_5.png",
+                    "back_png": "4A_CZ_B_5.png"
+                },
+                "331 (CZ) Missile Bde": {
+                    "front_png": "4A_CZ_F_10.png",
+                    "back_png": "4A_CZ_B_10.png"
+                },
+                "4 Hel. Reg CZ": {
+                    "front_png": "WP-CZ_Air_F6.png",
+                    "back_png": "WP-CZ_Air_B6.png"
+                }
+            },
+            "E Army": {
+                "SW F EA HQ CZ": {
+                    "front_png": "EA_CZ_F_1.png",
+                    "back_png": ""
+                },
+                "13TD-C CZ": {
+                    "front_png": "EA_CZ_F_2.png",
+                    "back_png": "EA_CZ_B_2.png"
+                },
+                "13TD-A CZ": {
+                    "front_png": "EA_CZ_F_3.png",
+                    "back_png": "EA_CZ_B_3.png"
+                },
+                "14TD-C CZ": {
+                    "front_png": "EA_CZ_F_4.png",
+                    "back_png": "EA_CZ_B_4.png"
+                },
+                "14TD-A CZ": {
+                    "front_png": "EA_CZ_F_5.png",
+                    "back_png": "EA_CZ_B_5.png"
+                },
+                "7 Art DIv CZ": {
+                    "front_png": "EA_CZ_F_6.png",
+                    "back_png": "EA_CZ_B_6.png"
+                },
+                "SSM EA (CZ) Missile Bde": {
+                    "front_png": "EA_CZ_F_7.png",
+                    "back_png": "EA_CZ_B_7.png"
+                }
+            },
+            "SW Front CZ Troops": {
+                "311 CZ Missile Bde": {
+                    "front_png": "RS_WP_SO_SWF-F-6.png",
+                    "back_png": "RS_WP_SO_SWF-B-6.png"
+                }
+            },
+            "Air": {
+                "11 SLP 1/1 CZ": {
+                    "front_png": "WP-CZ_Air_F12.png",
+                    "back_png": "WP-CZ_Air_B12.png"
+                },
+                "5 SLP CZ": {
+                    "front_png": "WP-CZ_Air_F7.png",
+                    "back_png": "WP-CZ_Air_B7.png"
+                },
+                "8 SLP/1 CZ": {
+                    "front_png": "WP-CZ_Air_F10.png",
+                    "back_png": "WP-CZ_Air_B10.png"
+                },
+                "8 SLP/2 CZ": {
+                    "front_png": "WP-CZ_Air_F11.png",
+                    "back_png": "WP-CZ_Air_B11.png"
+                },
+                "82 SSLT/1 CZ": {
+                    "front_png": "WP-CZ_Air_F13.png",
+                    "back_png": "WP-CZ_Air_B13.png"
+                },
+                "82 SSLT/2 CZ": {
+                    "front_png": "WP-CZ_Air_F14.png",
+                    "back_png": "WP-CZ_Air_B14.png"
+                },
+                "9 SLP/1 CZ": {
+                    "front_png": "WP-CZ_Air_F15.png",
+                    "back_png": "WP-CZ_Air_B15.png"
+                },
+                "9 SLP/2 CZ": {
+                    "front_png": "WP-CZ_Air_F16.png",
+                    "back_png": "WP-CZ_Air_B16.png"
+                },
+                "1 SLP CZ": {
+                    "front_png": "WP-CZ_Air_F1.png",
+                    "back_png": "WP-CZ_Air_B1.png"
+                },
+                "11 SLP 1/2 CZ": {
+                    "front_png": "WP-CZ_Air_F17.png",
+                    "back_png": "WP-CZ_Air_B17.png"
+                },
+                "11 SLP 2 CZ": {
+                    "front_png": "WP-CZ_Air_F18.png",
+                    "back_png": "WP-CZ_Air_B18.png"
+                },
+                "20 SBOLP CZ": {
+                    "front_png": "WP-CZ_Air_F23.png",
+                    "back_png": "WP-CZ_Air_B23.png"
+                },
+                "28 SBOLP CZ": {
+                    "front_png": "WP-CZ_Air_F2.png",
+                    "back_png": "WP-CZ_Air_B2.png"
+                },
+                "30 BILP/1 CZ": {
+                    "front_png": "WP-CZ_Air_F3.png",
+                    "back_png": "WP-CZ_Air_B3.png"
+                },
+                "30 BILP/2 CZ": {
+                    "front_png": "WP-CZ_Air_F4.png",
+                    "back_png": "WP-CZ_Air_B4.png"
+                },
+                "47 PZLP 3 CZ": {
+                    "front_png": "WP-CZ_Air_F5.png",
+                    "back_png": "WP-CZ_Air_B5.png"
+                },
+                "6 SBOLB CZ": {
+                    "front_png": "WP-CZ_Air_F9.png",
+                    "back_png": "WP-CZ_Air_B9.png"
+                }
+            },
+            "Helo's": {
+                "11 VrLt/1 Attk Av CZ": {
+                    "front_png": "WP-CZ_Air_F19.png",
+                    "back_png": "WP-CZ_Air_B19.png"
+                },
+                "11 VrLt/2 Attk Av CZ": {
+                    "front_png": "WP-CZ_Air_F20.png",
+                    "back_png": "WP-CZ_Air_B20.png"
+                },
+                "51 VrLt Attk Av CZ": {
+                    "front_png": "WP-CZ_Air_F8.png",
+                    "back_png": "WP-CZ_Air_B8.png"
+                }
+            }
+        },
+        "EG": {
+            "5 Army": {
+                "5 Army (EG) HQ": {
+                    "front_png": "5A_EG_HQ.png",
+                    "back_png": ""
+                },
+                "40 Ab Rgt (EG)": {
+                    "front_png": "5A_EG_40B_3.png",
+                    "back_png": "5A_EG_40F_2.png"
+                },
+                "5 (EG) Missile Bde": {
+                    "front_png": "5A_EG_F_7.png",
+                    "back_png": "5A_EG_B_7.png"
+                },
+                "25 M Bn": {
+                    "front_png": "5A_EG_F_6.png",
+                    "back_png": "5A_EG_B_6.png"
+                },
+                "1 MSD": {
+                    "front_png": "5A_EG_F_3.png",
+                    "back_png": "5A_EG_B_3.png"
+                },
+                "8 MSD": {
+                    "front_png": "5A_EG_F_5.png",
+                    "back_png": "5A_EG_B_5.png"
+                },
+                "20 MSD": {
+                    "front_png": "5A_EG_F_4.png",
+                    "back_png": "5A_EG_B_4.png"
+                },
+                "9 PD": {
+                    "front_png": "5A_EG_F_2.png",
+                    "back_png": "5A_EG_B_2.png"
+                },
+                "KHG-5 Attk Av": {
+                    "front_png": "WP-EG_Air_F19.png",
+                    "back_png": "WP-EG_Air_B19.png"
+                }
+            },
+            "3 Army": {
+                "3 Army (EG) HQ": {
+                    "front_png": "3A_EG_F_1.png",
+                    "back_png": ""
+                },
+                "3 (EG) Missile Bde": {
+                    "front_png": "3A_EG_F_6.png",
+                    "back_png": "3A_EG_B_6.png"
+                },
+                "4 MSD": {
+                    "front_png": "3A_EG_F_5.png",
+                    "back_png": "3A_EG_B_5.png"
+                },
+                "10 MSD": {
+                    "front_png": "3A_EG_F_3.png",
+                    "back_png": "3A_EG_B_3.png"
+                },
+                "11 MSD": {
+                    "front_png": "3A_EG_F_4.png",
+                    "back_png": "3A_EG_B_4.png"
+                },
+                "7 PD": {
+                    "front_png": "3A_EG_F_2.png",
+                    "back_png": "3A_EG_B_2.png"
+                },
+                "KHG-3/1 Attk Av": {
+                    "front_png": "WP-EG_Air_F17.png",
+                    "back_png": "WP-EG_Air_B19.png"
+                },
+                "KHG-3/2 Attk Av": {
+                    "front_png": "WP-EG_Air_F18.png",
+                    "back_png": "WP-EG_Air_B19.png"
+                }
+            },
+            "2 GTA (SO)": {
+                "19MSD/2TA": {
+                    "front_png": "2CTA_EG_F_6.png",
+                    "back_png": "2CTA_EG_B_6.png"
+                }
+            },
+            "8 GA (SO)": {
+                "17MSD EG": {
+                    "front_png": "8GA_EG_F_6.png",
+                    "back_png": "8GA_EG_B_6.png"
+                }
+            },
+            "Western Front (SO)": {
+                "6 MRB EG": {
+                    "front_png": "WF_EG_F_5.png",
+                    "back_png": "WF_EG_B_5.png"
+                }
+            },
+            "Air": {
+                "JG 1/1": {
+                    "front_png": "WP-EG_Air_F4.png",
+                    "back_png": "WP-EG_Air_B4.png"
+                },
+                "JG 1/2": {
+                    "front_png": "WP-EG_Air_F5.png",
+                    "back_png": "WP-EG_Air_B5.png"
+                },
+                "JG 2/1": {
+                    "front_png": "WP-EG_Air_F6.png",
+                    "back_png": "WP-EG_Air_B6.png"
+                },
+                "JG 2/2": {
+                    "front_png": "WP-EG_Air_F7.png",
+                    "back_png": "WP-EG_Air_B7.png"
+                },
+                "JG 3/1": {
+                    "front_png": "WP-EG_Air_F8.png",
+                    "back_png": "WP-EG_Air_B8.png"
+                },
+                "JG 3/2": {
+                    "front_png": "WP-EG_Air_F9.png",
+                    "back_png": "WP-EG_Air_B9.png"
+                },
+                "JG 3/3": {
+                    "front_png": "WP-EG_Air_F10.png",
+                    "back_png": "WP-EG_Air_B10.png"
+                },
+                "JG 7/1": {
+                    "front_png": "WP-EG_Air_F11.png",
+                    "back_png": "WP-EG_Air_B11.png"
+                },
+                "JG 7/2": {
+                    "front_png": "WP-EG_Air_F12.png",
+                    "back_png": "WP-EG_Air_B12.png"
+                },
+                "JG 8/1": {
+                    "front_png": "WP-EG_Air_F13.png",
+                    "back_png": "WP-EG_Air_B13.png"
+                },
+                "JG 8/2": {
+                    "front_png": "WP-EG_Air_F14.png",
+                    "back_png": "WP-EG_Air_B14.png"
+                },
+                "JG 9/1": {
+                    "front_png": "WP-EG_Air_F15.png",
+                    "back_png": "WP-EG_Air_B15.png"
+                },
+                "JG 9/2": {
+                    "front_png": "WP-EG_Air_F16.png",
+                    "back_png": "WP-EG_Air_B16.png"
+                },
+                "JBG 37": {
+                    "front_png": "WP-EG_Air_F1.png",
+                    "back_png": "WP-EG_Air_B1.png"
+                },
+                "JBG 77/1": {
+                    "front_png": "WP-EG_Air_F2.png",
+                    "back_png": "WP-EG_Air_B2.png"
+                },
+                "JBG 77/2": {
+                    "front_png": "WP-EG_Air_F3.png",
+                    "back_png": "WP-EG_Air_B3.png"
+                },
+                "MFG 28": {
+                    "front_png": "WP-EG_Air_F20.png",
+                    "back_png": "WP-EG_Air_B20.png"
+                },
+                "MHG-18 (helo)": {
+                    "front_png": "WP-EG_Air_F21.png",
+                    "back_png": "WP-EG_Air_B21.png"
+                }
+            },
+            "Naval": {
+                "EG SAG Parchim": {
+                    "front_png": "WP-Minor-Naval_F_1.png",
+                    "back_png": "WP-Minor-Naval_B_1.png"
+                }
+            }
+        },
+        "PO": {
+            "NF Troops": {
+                "6 AbB/NF PO": {
+                    "front_png": "NF_SO_F_4.png",
+                    "back_png": "NF_SO_B_4.png"
+                },
+                "1 Rec/NF PO": {
+                    "front_png": "NF_SO_F_2.png",
+                    "back_png": "NF_SO_B_2.png"
+                },
+                "3 Missile Bde PO": {
+                    "front_png": "NF_SO_F_10.png",
+                    "back_png": "NF_SO_B_10.png"
+                }
+            },
+            "1 CAA PO": {
+                "NF 1CAA HQ PO": {
+                    "front_png": "1CAA_PO_F_1.png",
+                    "back_png": ""
+                },
+                "8MRD PO": {
+                    "front_png": "1CAA_PO_F_7.png",
+                    "back_png": "1CAA_PO_B_7.png"
+                },
+                "12MRD PO": {
+                    "front_png": "1CAA_PO_F_5.png",
+                    "back_png": "1CAA_PO_B_5.png"
+                },
+                "15MRD PO": {
+                    "front_png": "1CAA_PO_F_6.png",
+                    "back_png": "1CAA_PO_B_6.png"
+                },
+                "16TD PO": {
+                    "front_png": "1CAA_PO_F_2.png",
+                    "back_png": "1CAA_PO_B_2.png"
+                },
+                "20TD PO": {
+                    "front_png": "1CAA_PO_F_3.png",
+                    "back_png": "1CAA_PO_B_3.png"
+                },
+                "7 Coast Inf Bde PO": {
+                    "front_png": "1CAA_PO_F_4.png",
+                    "back_png": "1CAA_PO_B_4.png"
+                }
+            },
+            "7 Coast Div": {
+                "34 Mar Rgt PO": {
+                    "front_png": "7Co_PO_F_2.png",
+                    "back_png": "7Co_PO_B_2.png"
+                },
+                "35 Mar Rgt PO": {
+                    "front_png": "7Co_PO_F_3.png",
+                    "back_png": "7Co_PO_B_3.png"
+                },
+                "4 Mar Rgt PO": {
+                    "front_png": "7Co_PO_F_4.png",
+                    "back_png": "7Co_PO_B_4.png"
+                },
+                "11 Tk PO": {
+                    "front_png": "7Co_PO_F_1.png",
+                    "back_png": "7Co_PO_B_1.png"
+                }
+            },
+            "2 CAA": {
+                "NF 2CAA HQ PO": {
+                    "front_png": "2CAA_PO_F_1.png",
+                    "back_png": ""
+                },
+                "2MRD-B PO": {
+                    "front_png": "2CAA_PO_F_5.png",
+                    "back_png": "2CAA_PO_B_5.png"
+                },
+                "2MRD-A PO": {
+                    "front_png": "2CAA_PO_F_8.png",
+                    "back_png": "2CAA_PO_B_6.png"
+                },
+                "4MRD-B PO": {
+                    "front_png": "2CAA_PO_F_7.png",
+                    "back_png": "2CAA_PO_B_7.png"
+                },
+                "4MRD-A PO": {
+                    "front_png": "2CAA_PO_F_8.png",
+                    "back_png": "2CAA_PO_B_8.png"
+                },
+                "5TD PO": {
+                    "front_png": "2CAA_PO_F_4.png",
+                    "back_png": "2CAA_PO_B_4.png"
+                },
+                "10TD PO": {
+                    "front_png": "2CAA_PO_F_2.png",
+                    "back_png": "2CAA_PO_B_2.png"
+                },
+                "11TD PO": {
+                    "front_png": "2CAA_PO_F_3.png",
+                    "back_png": "2CAA_PO_B_3.png"
+                },
+                "18 (PO) Missile Bde": {
+                    "front_png": "2CAA_PO_F_9.png",
+                    "back_png": "2CAA_PO_B_9.png"
+                }
+            },
+            "4 CAA": {
+                "NF 4CAA HQ PO": {
+                    "front_png": "4CAA_PO_F_1.png",
+                    "back_png": ""
+                },
+                "1MRD-C PO": {
+                    "front_png": "4CAA_PO_F_2.png",
+                    "back_png": "4CAA_PO_B_2.png"
+                },
+                "1MRD-A PO": {
+                    "front_png": "4CAA_PO_F_3.png",
+                    "back_png": "4CAA_PO_B_3.png"
+                },
+                "3MRD-C PO": {
+                    "front_png": "4CAA_PO_F_4.png",
+                    "back_png": "4CAA_PO_B_4.png"
+                },
+                "3MRD-A PO": {
+                    "front_png": "4CAA_PO_F_5.png",
+                    "back_png": "4CAA_PO_B_5.png"
+                },
+                "9MRD-C PO": {
+                    "front_png": "4CAA_PO_F_6.png",
+                    "back_png": "4CAA_PO_B_6.png"
+                },
+                "9MRD-A PO": {
+                    "front_png": "4CAA_PO_F_7.png",
+                    "back_png": "4CAA_PO_B_7.png"
+                },
+                "32 (PO) Missile Bde": {
+                    "front_png": "4CAA_PO_F_8.png",
+                    "back_png": "4CAA_PO_B_8.png"
+                }
+            },
+            "Air": {
+                "1 PLM-OPK/1 PO": {
+                    "front_png": "WP-PO_Air_F1.png",
+                    "back_png": "WP-PO_Air_B1.png"
+                },
+                "1 PLM-OPK/2 PO": {
+                    "front_png": "WP-PO_Air_F2.png",
+                    "back_png": "WP-PO_Air_B2.png"
+                },
+                "1 PLM-OPK/3 PO": {
+                    "front_png": "WP-PO_Air_F3.png",
+                    "back_png": "WP-PO_Air_B3.png"
+                },
+                "10 PLM-OPK PO": {
+                    "front_png": "WP-PO_Air_F4.png",
+                    "back_png": "WP-PO_Air_B4.png"
+                },
+                "11 PLM-OPK/1 PO": {
+                    "front_png": "WP-PO_Air_F5.png",
+                    "back_png": "WP-PO_Air_B5.png"
+                },
+                "11 PLM-OPK/2 PO": {
+                    "front_png": "WP-PO_Air_F6.png",
+                    "back_png": "WP-PO_Air_B6.png"
+                },
+                "2 PLM PO": {
+                    "front_png": "WP-PO_Air_F7.png",
+                    "back_png": "WP-PO_Air_B7.png"
+                },
+                "41 PLM PO": {
+                    "front_png": "WP-PO_Air_F12.png",
+                    "back_png": "WP-PO_Air_B12.png"
+                },
+                "62 PLM-OPK/1 PO": {
+                    "front_png": "WP-PO_Air_F17.png",
+                    "back_png": "WP-PO_Air_B17.png"
+                },
+                "62 PLM-OPK/2 PO": {
+                    "front_png": "WP-PO_Air_F18.png",
+                    "back_png": "WP-PO_Air_B17.png"
+                },
+                "9 PLM PO": {
+                    "front_png": "WP-PO_Air_F23.png",
+                    "back_png": "WP-PO_Air_B23.png"
+                },
+                "28 PLM-OPK PO": {
+                    "front_png": "WP-PO_Air_F8.png",
+                    "back_png": "WP-PO_Air_B8.png"
+                },
+                "34 PLM-OPK PO": {
+                    "front_png": "WP-PO_Air_F9.png",
+                    "back_png": "WP-PO_Air_B9.png"
+                },
+                "6 PLM-B PO": {
+                    "front_png": "WP-PO_Air_F16.png",
+                    "back_png": "WP-PO_Air_B16.png"
+                },
+                "8 PLM-B/1 PO": {
+                    "front_png": "WP-PO_Air_F21.png",
+                    "back_png": "WP-PO_Air_B21.png"
+                },
+                "8 PLM-B/2 PO": {
+                    "front_png": "WP-PO_Air_F22.png",
+                    "back_png": "WP-PO_Air_B22.png"
+                },
+                "40 PLM-B/1 PO": {
+                    "front_png": "WP-PO_Air_F10.png",
+                    "back_png": "WP-PO_Air_B10.png"
+                },
+                "40 PLM-B/2 PO": {
+                    "front_png": "WP-PO_Air_F11.png",
+                    "back_png": "WP-PO_Air_B10.png"
+                },
+                "7 PLM/1 PO": {
+                    "front_png": "WP-PO_Air_F19.png",
+                    "back_png": "WP-PO_Air_B19.png"
+                },
+                "7 PLM/2 PO": {
+                    "front_png": "WP-PO_Air_F20.png",
+                    "back_png": "WP-PO_Air_B20.png"
+                }
+            },
+            "Helo's": {
+                "49 PSB/1 Attk Av PO": {
+                    "front_png": "WP-PO_Air_F13.png",
+                    "back_png": "WP-PO_Air_B13.png"
+                },
+                "49 PSB/2 Attk Av PO": {
+                    "front_png": "WP-PO_Air_F14.png",
+                    "back_png": "WP-PO_Air_B13.png"
+                },
+                "59 PSB Attk Av": {
+                    "front_png": "WP-PO_Air_F15.png",
+                    "back_png": "WP-PO_Air_B13.png"
+                }
+            },
+            "Naval": {
+                "PO SAG 1 Kashin": {
+                    "front_png": "WP-Minor-Naval_F_2.png",
+                    "back_png": "WP-Minor-Naval_B_2.png"
+                },
+                "PO SAG 2 Krogulec": {
+                    "front_png": "WP-Minor-Naval_F_3.png",
+                    "back_png": "WP-Minor-Naval_B_3.png"
+                },
+                "PO SS 1 Kilo": {
+                    "front_png": "WP-Minor-Naval-Sub_F_1.png",
+                    "back_png": "WP-Minor-Naval-Sub_B_1.png"
+                }
+            }
+        },
+        "SO": {
+            "Misc Helo's": {
+                "85 OVP Attk Av": {
+                    "front_png": "WP-SO_Air11_F10.png",
+                    "back_png": "WP-SO_Air11_B10.png"
+                },
+                "38 OPLVP CV Kiev": {
+                    "front_png": "WP-SO_Air6_F15.png",
+                    "back_png": "WP-SO_Air6_B15.png"
+                },
+                "830 OPLVP CV Baku": {
+                    "front_png": "WP-SO_Air11_F3.png",
+                    "back_png": "WP-SO_Air11_B3.png"
+                }
+            },
+            "Naval": {
+                "SO Kirov": {
+                    "front_png": "WP-SO-Naval-Surf_F_1.png",
+                    "back_png": "WP-SO-Naval-Surd_B_1.png"
+                },
+                "SO Frunze": {
+                    "front_png": "WP-SO-Naval-Surf_F_2.png",
+                    "back_png": "WP-SO-Naval-Surd_B_2.png"
+                },
+                "SO Kalinin": {
+                    "front_png": "WP-SO-Naval-Surf_F_3.png",
+                    "back_png": "WP-SO-Naval-Surd_B_3.png"
+                },
+                "SO ASW 1 Udaloy": {
+                    "front_png": "WP-SO-Naval-Surf_F_4.png",
+                    "back_png": "WP-SO-Naval-Surd_B_4.png"
+                },
+                "SO ASW 2 Udaloy": {
+                    "front_png": "WP-SO-Naval-Surf_F_5.png",
+                    "back_png": "WP-SO-Naval-Surd_B_5.png"
+                },
+                "SO ASW 3 Kresta I": {
+                    "front_png": "WP-SO-Naval-Surf_F_6.png",
+                    "back_png": "WP-SO-Naval-Surd_B_6.png"
+                },
+                "SO SAG 1 Sovremenny": {
+                    "front_png": "WP-SO-Naval-Surf_F_9.png",
+                    "back_png": "WP-SO-Naval-Surd_B_9.png"
+                },
+                "SO SAG 2 Sovremenny": {
+                    "front_png": "WP-SO-Naval-Surf_F_11.png",
+                    "back_png": "WP-SO-Naval-Surd_B_10.png"
+                },
+                "SO SAG 3 Sovremenny": {
+                    "front_png": "WP-SO-Naval-Surf_F_12.png",
+                    "back_png": "WP-SO-Naval-Surd_B_11.png"
+                },
+                "SO SAG 4 Sovremenny": {
+                    "front_png": "WP-SO-Naval-Surf_F_10.png",
+                    "back_png": "WP-SO-Naval-Surd_B_12.png"
+                },
+                "SO SAG 5 Kashin": {
+                    "front_png": "WP-SO-Naval-Surf_F_13.png",
+                    "back_png": "WP-SO-Naval-Surd_B_13.png"
+                },
+                "SO SAG 6 Krivak": {
+                    "front_png": "WP-SO-Naval-Surf_F_14.png",
+                    "back_png": "WP-SO-Naval-Surd_B_14.png"
+                },
+                "SO CV Baku": {
+                    "front_png": "WP-SO-Naval-Surf_F_7.png",
+                    "back_png": "WP-SO-Naval-Surd_B_7.png"
+                },
+                "SO CV Kiev": {
+                    "front_png": "WP-SO-Naval-Surf_F_8.png",
+                    "back_png": "WP-SO-Naval-Surd_B_8.png"
+                },
+                "SO SSG 1 Juliett": {
+                    "front_png": "WP-SO-Naval-Sub_F_21.png",
+                    "back_png": "WP-SO-Naval-Sub_B_21.png"
+                },
+                "SO SSG 2 Juliett": {
+                    "front_png": "WP-SO-Naval-Sub_F_22.png",
+                    "back_png": "WP-SO-Naval-Sub_B_22.png"
+                },
+                "SO SSG 3 Juliett": {
+                    "front_png": "WP-SO-Naval-Sub_F_23.png",
+                    "back_png": "WP-SO-Naval-Sub_B_23.png"
+                },
+                "SO SSGN 1 Charlie II": {
+                    "front_png": "WP-SO-Naval-Sub_F_24.png",
+                    "back_png": "WP-SO-Naval-Sub_B_24.png"
+                },
+                "SO SSGN 2 Charlie II": {
+                    "front_png": "WP-SO-Naval-Sub_F_25.png",
+                    "back_png": "WP-SO-Naval-Sub_B_25.png"
+                },
+                "SO SSGN 3 Echo II": {
+                    "front_png": "WP-SO-Naval-Sub_F_26.png",
+                    "back_png": "WP-SO-Naval-Sub_B_26.png"
+                },
+                "SO SSGN 4 Echo II": {
+                    "front_png": "WP-SO-Naval-Sub_F_1.png",
+                    "back_png": "WP-SO-Naval-Sub_B_1.png"
+                },
+                "SO SSGN 5 Echo II": {
+                    "front_png": "WP-SO-Naval-Sub_F_2.png",
+                    "back_png": "WP-SO-Naval-Sub_B_2.png"
+                },
+                "SO SSGN 6 Echo II": {
+                    "front_png": "WP-SO-Naval-Sub_F_3.png",
+                    "back_png": "WP-SO-Naval-Sub_B_3.png"
+                },
+                "SO SSGN 7 Oscar": {
+                    "front_png": "WP-SO-Naval-Sub_F_4.png",
+                    "back_png": "WP-SO-Naval-Sub_B_4.png"
+                },
+                "SO SSN 1 Alfa": {
+                    "front_png": "WP-SO-Naval-Sub_F_5.png",
+                    "back_png": "WP-SO-Naval-Sub_B_5.png"
+                },
+                "SO SSN 2 Alfa": {
+                    "front_png": "WP-SO-Naval-Sub_F_6.png",
+                    "back_png": "WP-SO-Naval-Sub_B_6.png"
+                },
+                "SO SSN 3 Sierra": {
+                    "front_png": "WP-SO-Naval-Sub_F_7.png",
+                    "back_png": "WP-SO-Naval-Sub_B_7.png"
+                },
+                "SO SSN 4 Victor": {
+                    "front_png": "WP-SO-Naval-Sub_F_8.png",
+                    "back_png": "WP-SO-Naval-Sub_B_8.png"
+                },
+                "SO SSN 5 Victor": {
+                    "front_png": "WP-SO-Naval-Sub_F_9.png",
+                    "back_png": "WP-SO-Naval-Sub_B_9.png"
+                },
+                "SO SSN 6 Victor": {
+                    "front_png": "WP-SO-Naval-Sub_F_10.png",
+                    "back_png": "WP-SO-Naval-Sub_B_10.png"
+                },
+                "SO SSN 7 Victor": {
+                    "front_png": "WP-SO-Naval-Sub_F_11.png",
+                    "back_png": "WP-SO-Naval-Sub_B_11.png"
+                },
+                "SO SS 1 Kilo": {
+                    "front_png": "WP-SO-Naval-Sub_F_12.png",
+                    "back_png": "WP-SO-Naval-Sub_B_12.png"
+                },
+                "SO SS 2 Kilo": {
+                    "front_png": "WP-SO-Naval-Sub_F_13.png",
+                    "back_png": "WP-SO-Naval-Sub_B_13.png"
+                },
+                "SO SS 3 Kilo": {
+                    "front_png": "WP-SO-Naval-Sub_F_14.png",
+                    "back_png": "WP-SO-Naval-Sub_B_14.png"
+                },
+                "SO SS 4 Kilo": {
+                    "front_png": "WP-SO-Naval-Sub_F_15.png",
+                    "back_png": "WP-SO-Naval-Sub_B_15.png"
+                },
+                "SO SS 5 Kilo": {
+                    "front_png": "WP-SO-Naval-Sub_F_16.png",
+                    "back_png": "WP-SO-Naval-Sub_B_16.png"
+                },
+                "SO SSBN 1 Typhoon": {
+                    "front_png": "WP-SO-Naval-Sub_F_17.png",
+                    "back_png": "WP-SO-Naval-Sub_B_17.png"
+                },
+                "SO SSBN 2 Typhoon": {
+                    "front_png": "WP-SO-Naval-Sub_F_18.png",
+                    "back_png": "WP-SO-Naval-Sub_B_18.png"
+                },
+                "SO SSBN 3 Delta I": {
+                    "front_png": "WP-SO-Naval-Sub_F_19.png",
+                    "back_png": "WP-SO-Naval-Sub_B_19.png"
+                },
+                "SO SSBN 4 Delta II": {
+                    "front_png": "WP-SO-Naval-Sub_F_20.png",
+                    "back_png": "WP-SO-Naval-Sub_B_20.png"
+                }
+            }
+        },
+        "Hungary": {
+            "IIIC": {
+                "SF IIIC HQ HU": {
+                    "front_png": "IIIC_HU_F_1.png",
+                    "back_png": ""
+                },
+                "4MRD HU": {
+                    "front_png": "IIIC_HU_F_3.png",
+                    "back_png": "IIIC_HU_B_3.png"
+                },
+                "15MRD HU": {
+                    "front_png": "IIIC_HU_F_2.png",
+                    "back_png": "IIIC_HU_B_2.png"
+                }
+            },
+            "5 Army": {
+                "SF 5A HQ HU": {
+                    "front_png": "5A_HU_F_1.png",
+                    "back_png": ""
+                },
+                "7MRD HU": {
+                    "front_png": "5A_HU_F_3.png",
+                    "back_png": "5A_HU_B_3.png"
+                },
+                "8MRD HU": {
+                    "front_png": "5A_HU_F_4.png",
+                    "back_png": "5A_HU_B_4.png"
+                },
+                "9TD HU": {
+                    "front_png": "5A_HU_F_5.png",
+                    "back_png": "5A_HU_B_5.png"
+                },
+                "11TD HU": {
+                    "front_png": "5A_HU_F_2.png",
+                    "back_png": "5A_HU_B_2.png"
+                },
+                "5 (HU) Missile Bde": {
+                    "front_png": "5A_HU_F_6.png",
+                    "back_png": "5A_HU_B_6.png"
+                }
+            },
+            "Air": {
+                "Kapos HU": {
+                    "front_png": "WP-HU_Air_F3.png",
+                    "back_png": "WP-HU_Air_B3.png"
+                },
+                "MH 59 1 HU": {
+                    "front_png": "WP-HU_Air_F4.png",
+                    "back_png": "WP-HU_Air_B4.png"
+                },
+                "MH 59 2 HU": {
+                    "front_png": "WP-HU_Air_F5.png",
+                    "back_png": "WP-HU_Air_B4.png"
+                },
+                "MH 59 3 HU": {
+                    "front_png": "WP-HU_Air_F6.png",
+                    "back_png": "WP-HU_Air_B6.png"
+                },
+                "87 Bakony/1 Helo": {
+                    "front_png": "WP-HU_Air_F1.png",
+                    "back_png": "WP-HU_Air_B1.png"
+                },
+                "87 Bakony/2 Helo": {
+                    "front_png": "WP-HU_Air_F2.png",
+                    "back_png": "WP-HU_Air_B1.png"
+                }
+            }
+        }
+    },
+    "Markers": {},
+    "Cards": {
+        "NATO Cards": {
+            "": {
+                "RS_Cards01": {
+                    "front_png": "NATO-1.png",
+                    "back_png": ""
+                },
+                "RS_Cards02": {
+                    "front_png": "NATO-2.png",
+                    "back_png": ""
+                },
+                "RS_Cards03": {
+                    "front_png": "NATO-3.png",
+                    "back_png": ""
+                },
+                "RS_Cards04": {
+                    "front_png": "NATO-4.png",
+                    "back_png": ""
+                },
+                "RS_Cards05": {
+                    "front_png": "NATO-5.png",
+                    "back_png": ""
+                },
+                "RS_Cards06": {
+                    "front_png": "NATO-6.png",
+                    "back_png": ""
+                },
+                "RS_Cards07": {
+                    "front_png": "NATO-7.png",
+                    "back_png": ""
+                },
+                "RS_Cards08": {
+                    "front_png": "NATO-8.png",
+                    "back_png": ""
+                },
+                "RS_Cards09": {
+                    "front_png": "NATO-9.png",
+                    "back_png": ""
+                },
+                "RS_Cards10": {
+                    "front_png": "NATO-10.png",
+                    "back_png": ""
+                },
+                "RS_Cards11": {
+                    "front_png": "NATO-11.png",
+                    "back_png": ""
+                },
+                "RS_Cards12": {
+                    "front_png": "NATO-12.png",
+                    "back_png": ""
+                },
+                "RS_Cards13": {
+                    "front_png": "NATO-13.png",
+                    "back_png": ""
+                },
+                "RS_Cards14": {
+                    "front_png": "NATO-14.png",
+                    "back_png": ""
+                },
+                "RS_Cards15": {
+                    "front_png": "NATO-15.png",
+                    "back_png": ""
+                },
+                "RS_Cards16": {
+                    "front_png": "NATO-16.png",
+                    "back_png": ""
+                },
+                "RS_Cards17": {
+                    "front_png": "NATO-17.png",
+                    "back_png": ""
+                },
+                "RS_Cards18": {
+                    "front_png": "NATO-18.png",
+                    "back_png": ""
+                },
+                "RS_Cards19": {
+                    "front_png": "NATO-19.png",
+                    "back_png": ""
+                },
+                "RS_Cards20": {
+                    "front_png": "NATO-20.png",
+                    "back_png": ""
+                },
+                "RS_Cards21": {
+                    "front_png": "NATO-21.png",
+                    "back_png": ""
+                },
+                "RS_Cards22": {
+                    "front_png": "NATO-22.png",
+                    "back_png": ""
+                },
+                "RS_Cards23": {
+                    "front_png": "NATO-23.png",
+                    "back_png": ""
+                },
+                "RS_Cards24": {
+                    "front_png": "NATO-24.png",
+                    "back_png": ""
+                },
+                "RS_Cards25": {
+                    "front_png": "NATO-25.png",
+                    "back_png": ""
+                },
+                "RS_Cards26": {
+                    "front_png": "NATO-26.png",
+                    "back_png": ""
+                },
+                "RS_Cards27": {
+                    "front_png": "NATO-27.png",
+                    "back_png": ""
+                },
+                "RS_Cards28": {
+                    "front_png": "NATO-28.png",
+                    "back_png": ""
+                },
+                "RS_Cards29": {
+                    "front_png": "NATO-29.png",
+                    "back_png": ""
+                },
+                "RS_Cards30": {
+                    "front_png": "NATO-30.png",
+                    "back_png": ""
+                },
+                "RS_Cards31": {
+                    "front_png": "NATO-31.png",
+                    "back_png": ""
+                },
+                "RS_Cards32": {
+                    "front_png": "NATO-32.png",
+                    "back_png": ""
+                },
+                "RS_Cards33": {
+                    "front_png": "NATO-33.png",
+                    "back_png": ""
+                },
+                "RS_Cards34": {
+                    "front_png": "NATO-34.png",
+                    "back_png": ""
+                },
+                "RS_Cards35": {
+                    "front_png": "NATO-35.png",
+                    "back_png": ""
+                },
+                "RS_Cards36": {
+                    "front_png": "NATO-36.png",
+                    "back_png": ""
+                },
+                "RS_Cards37": {
+                    "front_png": "NATO-37.png",
+                    "back_png": ""
+                },
+                "RS_Cards38": {
+                    "front_png": "NATO-38.png",
+                    "back_png": ""
+                },
+                "RS_Cards39": {
+                    "front_png": "NATO-39.png",
+                    "back_png": ""
+                }
+            }
+        },
+        "WP Cards": {
+            "": {
+                "RS_Cards40": {
+                    "front_png": "WP-40.png",
+                    "back_png": ""
+                },
+                "RS_Cards41": {
+                    "front_png": "WP-41.png",
+                    "back_png": ""
+                },
+                "RS_Cards42": {
+                    "front_png": "WP-42.png",
+                    "back_png": ""
+                },
+                "RS_Cards43": {
+                    "front_png": "WP-43.png",
+                    "back_png": ""
+                },
+                "RS_Cards44": {
+                    "front_png": "WP-44.png",
+                    "back_png": ""
+                },
+                "RS_Cards45": {
+                    "front_png": "WP-45.png",
+                    "back_png": ""
+                },
+                "RS_Cards46": {
+                    "front_png": "WP-46.png",
+                    "back_png": ""
+                },
+                "RS_Cards47": {
+                    "front_png": "WP-47.png",
+                    "back_png": ""
+                },
+                "RS_Cards48": {
+                    "front_png": "WP-48.png",
+                    "back_png": ""
+                },
+                "RS_Cards49": {
+                    "front_png": "WP-49.png",
+                    "back_png": ""
+                },
+                "RS_Cards50": {
+                    "front_png": "WP-50.png",
+                    "back_png": ""
+                },
+                "RS_Cards51": {
+                    "front_png": "WP-51.png",
+                    "back_png": ""
+                },
+                "RS_Cards52": {
+                    "front_png": "WP-52.png",
+                    "back_png": ""
+                },
+                "RS_Cards53": {
+                    "front_png": "WP-53.png",
+                    "back_png": ""
+                },
+                "RS_Cards54": {
+                    "front_png": "WP-54.png",
+                    "back_png": ""
+                },
+                "RS_Cards55": {
+                    "front_png": "WP-55.png",
+                    "back_png": ""
+                },
+                "RS_Cards56": {
+                    "front_png": "WP-56.png",
+                    "back_png": ""
+                },
+                "RS_Cards57": {
+                    "front_png": "WP-57.png",
+                    "back_png": ""
+                },
+                "RS_Cards58": {
+                    "front_png": "WP-58.png",
+                    "back_png": ""
+                },
+                "RS_Cards59": {
+                    "front_png": "WP-59.png",
+                    "back_png": ""
+                },
+                "RS_Cards60": {
+                    "front_png": "WP-60.png",
+                    "back_png": ""
+                },
+                "RS_Cards61": {
+                    "front_png": "WP-61.png",
+                    "back_png": ""
+                },
+                "RS_Cards62": {
+                    "front_png": "WP-62.png",
+                    "back_png": ""
+                },
+                "RS_Cards63": {
+                    "front_png": "WP-63.png",
+                    "back_png": ""
+                },
+                "RS_Cards64": {
+                    "front_png": "WP-64.png",
+                    "back_png": ""
+                },
+                "RS_Cards65": {
+                    "front_png": "WP-65.png",
+                    "back_png": ""
+                },
+                "RS_Cards66": {
+                    "front_png": "WP-66.png",
+                    "back_png": ""
+                },
+                "RS_Cards67": {
+                    "front_png": "WP-67.png",
+                    "back_png": ""
+                },
+                "RS_Cards68": {
+                    "front_png": "WP-68.png",
+                    "back_png": ""
+                },
+                "RS_Cards69": {
+                    "front_png": "WP-69.png",
+                    "back_png": ""
+                },
+                "RS_Cards70": {
+                    "front_png": "WP-70.png",
+                    "back_png": ""
+                },
+                "RS_Cards71": {
+                    "front_png": "WP-71.png",
+                    "back_png": ""
+                },
+                "RS_Cards72": {
+                    "front_png": "WP-72.png",
+                    "back_png": ""
+                },
+                "RS_Cards73": {
+                    "front_png": "WP-73.png",
+                    "back_png": ""
+                },
+                "RS_Cards74": {
+                    "front_png": "WP-74.png",
+                    "back_png": ""
+                },
+                "RS_Cards75": {
+                    "front_png": "WP-75.png",
+                    "back_png": ""
+                },
+                "RS_Cards76": {
+                    "front_png": "WP-76.png",
+                    "back_png": ""
+                },
+                "RS_Cards77": {
+                    "front_png": "WP-77.png",
+                    "back_png": ""
+                },
+                "RS_Cards78": {
+                    "front_png": "WP-78.png",
+                    "back_png": ""
+                },
+                "RS_Cards79": {
+                    "front_png": "WP-79.png",
+                    "back_png": ""
+                },
+                "RS_Cards80": {
+                    "front_png": "WP-80.png",
+                    "back_png": ""
+                },
+                "RS_Cards81": {
+                    "front_png": "WP-81.png",
+                    "back_png": ""
+                },
+                "RS_Cards82": {
+                    "front_png": "WP-82.png",
+                    "back_png": ""
+                }
+            }
+        }
+    }
+}

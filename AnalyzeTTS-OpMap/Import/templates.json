@@ -1,0 +1,458 @@
+{
+    "tile":{
+    "GUID": "0cf5f6",
+    "Name": "Custom_Tile",
+    "Transform": {
+      "posX": -18.06057,
+      "posY": 2.56344318,
+      "posZ": 6.191258,
+      "rotX": -3.8959E-05,
+      "rotY": 180.0,
+      "rotZ": -1.034438E-05,
+      "scaleX": 0.25,
+      "scaleY": 0.25,
+      "scaleZ": 0.25
+    },
+    "Nickname": "Tile",
+    "Description": "",
+    "GMNotes": "",
+    "AltLookAngle": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "ColorDiffuse": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0
+    },
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomImage": {
+      "ImageURL": "file:///C:\\Users\\ander\\Downloads\\Red Strike Pawns\\Red Strike Pawns\\counter images\\Counters\\Units\\NATO\\Ground Forces\\Inf Res_FR_F_1.png",
+      "ImageSecondaryURL": "file:///C:\\Users\\ander\\Downloads\\Red Strike Pawns\\Red Strike Pawns\\counter images\\Counters\\Units\\NATO\\Ground Forces\\Inf Res_FR_B_5.png",
+      "ImageScalar": 1.0,
+      "WidthScale": 0.0,
+      "CustomTile": {
+        "Type": 3,
+        "Thickness": 0.102777719,
+        "Stackable": false,
+        "Stretch": false
+      }
+    },
+    "LuaScript": "",
+    "LuaScriptState": "",
+    "XmlUI": ""
+  },
+  "bag": { 
+    "GUID": "749907",
+    "Name": "Custom_Model_Bag",
+    "Transform": {
+      "posX": -50.373,
+      "posY": 4.78752136,
+      "posZ": 11.2571287,
+      "rotX": 2.33608262E-08,
+      "rotY": 179.997086,
+      "rotZ": -4.41349357E-09,
+      "scaleX": 0.350000441,
+      "scaleY": 0.350000441,
+      "scaleZ": 0.350000441
+    },
+    "Nickname": "Trackers",
+    "Description": "",
+    "GMNotes": "",
+    "AltLookAngle": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "ColorDiffuse": {
+      "r": 0.627,
+      "g": 0.124999158,
+      "b": 0.941
+    },
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "MaterialIndex": -1,
+    "MeshIndex": -1,
+    "CustomMesh": {
+      "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/36697728030566729/9E072548677083FB20F536D6A759EC715224D40C/",
+      "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/36697728030566974/5D0E182EDCEA774E94E20E38799D1E9E5E53F10D/",
+      "NormalURL": "https://steamusercontent-a.akamaihd.net/ugc/36697728030567093/00996BD3AC4742578B4C116338D780AA393FE4DC/",
+      "ColliderURL": "",
+      "Convex": true,
+      "MaterialIndex": 1,
+      "TypeIndex": 6,
+      "CastShadows": true
+    },
+    "Bag": {
+      "Order": 0
+    },
+    "LuaScript": "",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "ContainedObjects": []
+  },
+  "cardEntry":{
+    "FaceURL": "file:///C:\\Users\\ander\\Downloads\\Red Strike Pawns\\Red Strike Pawns\\counter images\\Event Cards\\NATO-7.png",
+    "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/36697728030533483/85C00B02C823694CB7C24844D365600887430458/",
+    "NumWidth": 1,
+    "NumHeight": 1,
+    "BackIsHidden": true,
+    "UniqueBack": false,
+    "Type": 0
+  },
+  "deck":{
+    "GUID": "5c0e6d",
+    "Name": "DeckCustom",
+    "Transform": {
+      "posX": -12.0324345,
+      "posY": 2.839517,
+      "posZ": -15.7616463,
+      "rotX": -5.88863536E-08,
+      "rotY": 180.0,
+      "rotZ": 180.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0
+    },
+    "Nickname": "MyDec",
+    "Description": "",
+    "GMNotes": "",
+    "AltLookAngle": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "ColorDiffuse": {
+      "r": 0.713235259,
+      "g": 0.713235259,
+      "b": 0.713235259
+    },
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": true,
+    "Hands": false,
+    "SidewaysCard": false,
+    "DeckIDs": [],
+    "CustomDeck": {}
+    ,
+    "LuaScript": "",
+    "LuaScriptState": "",
+    "XmlUI": "",
+    "ContainedObjects": []
+  },
+  "card":{
+    "GUID": "d849e7",
+    "Name": "Card",
+    "Transform": {
+      "posX": -11.7390614,
+      "posY": 3.13407516,
+      "posZ": -15.4538,
+      "rotX": -6.051216E-05,
+      "rotY": 164.9999,
+      "rotZ": 180.000977,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0
+    },
+    "Nickname": "",
+    "Description": "",
+    "GMNotes": "",
+    "AltLookAngle": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "ColorDiffuse": {
+      "r": 0.713235259,
+      "g": 0.713235259,
+      "b": 0.713235259
+    },
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": true,
+    "Hands": true,
+    "CardID": 8000,
+    "SidewaysCard": false,
+    "CustomDeck": {
+      "80": {
+        "FaceURL": "file:///C:\\Users\\ander\\Downloads\\Red Strike Pawns\\Red Strike Pawns\\counter images\\Event Cards\\NATO-7.png",
+        "BackURL": "file:///C:\\Users\\ander\\Downloads\\Red Strike Pawns\\Red Strike Pawns\\counter images\\Event Cards\\NATODrawCards.png",
+        "NumWidth": 10,
+        "NumHeight": 7,
+        "BackIsHidden": true,
+        "UniqueBack": false,
+        "Type": 0
+      }
+    },
+    "LuaScript": "",
+    "XmlUI": ""
+  },
+  "ttsSave":{
+    "SaveName": "RS89_Tokens",
+    "EpochTime": 1745510369,
+    "Date": "4/24/2025 5:59:29 PM",
+    "VersionNumber": "v13.3",
+    "GameMode": "Custom",
+    "GameType": "",
+    "GameComplexity": "",
+    "Tags": [],
+    "Gravity": 0.5,
+    "PlayArea": 0.5,
+    "Table": "Table_Hexagon",
+    "Sky": "Sky_Downtown",
+    "Note": "",
+    "TabStates": {
+      "0": {
+        "title": "Rules",
+        "body": "",
+        "color": "Grey",
+        "visibleColor": {
+          "r": 0.5,
+          "g": 0.5,
+          "b": 0.5
+        },
+        "id": 0
+      },
+      "1": {
+        "title": "White",
+        "body": "",
+        "color": "White",
+        "visibleColor": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "id": 1
+      },
+      "2": {
+        "title": "Brown",
+        "body": "",
+        "color": "Brown",
+        "visibleColor": {
+          "r": 0.443,
+          "g": 0.231,
+          "b": 0.09
+        },
+        "id": 2
+      },
+      "3": {
+        "title": "Red",
+        "body": "",
+        "color": "Red",
+        "visibleColor": {
+          "r": 0.856,
+          "g": 0.1,
+          "b": 0.094
+        },
+        "id": 3
+      },
+      "4": {
+        "title": "Orange",
+        "body": "",
+        "color": "Orange",
+        "visibleColor": {
+          "r": 0.956,
+          "g": 0.392,
+          "b": 0.113
+        },
+        "id": 4
+      },
+      "5": {
+        "title": "Yellow",
+        "body": "",
+        "color": "Yellow",
+        "visibleColor": {
+          "r": 0.905,
+          "g": 0.898,
+          "b": 0.172
+        },
+        "id": 5
+      },
+      "6": {
+        "title": "Green",
+        "body": "",
+        "color": "Green",
+        "visibleColor": {
+          "r": 0.192,
+          "g": 0.701,
+          "b": 0.168
+        },
+        "id": 6
+      },
+      "7": {
+        "title": "Blue",
+        "body": "",
+        "color": "Blue",
+        "visibleColor": {
+          "r": 0.118,
+          "g": 0.53,
+          "b": 1.0
+        },
+        "id": 7
+      },
+      "8": {
+        "title": "Teal",
+        "body": "",
+        "color": "Teal",
+        "visibleColor": {
+          "r": 0.129,
+          "g": 0.694,
+          "b": 0.607
+        },
+        "id": 8
+      },
+      "9": {
+        "title": "Purple",
+        "body": "",
+        "color": "Purple",
+        "visibleColor": {
+          "r": 0.627,
+          "g": 0.125,
+          "b": 0.941
+        },
+        "id": 9
+      },
+      "10": {
+        "title": "Pink",
+        "body": "",
+        "color": "Pink",
+        "visibleColor": {
+          "r": 0.96,
+          "g": 0.439,
+          "b": 0.807
+        },
+        "id": 10
+      },
+      "11": {
+        "title": "Black",
+        "body": "",
+        "color": "Black",
+        "visibleColor": {
+          "r": 0.25,
+          "g": 0.25,
+          "b": 0.25
+        },
+        "id": 11
+      }
+    },
+    "Grid": {
+      "Type": 0,
+      "Lines": false,
+      "Color": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "Opacity": 0.75,
+      "ThickLines": false,
+      "Snapping": false,
+      "Offset": false,
+      "BothSnapping": false,
+      "xSize": 2.0,
+      "ySize": 2.0,
+      "PosOffset": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      }
+    },
+    "Lighting": {
+      "LightIntensity": 0.54,
+      "LightColor": {
+        "r": 1.0,
+        "g": 0.9804,
+        "b": 0.8902
+      },
+      "AmbientIntensity": 1.3,
+      "AmbientType": 0,
+      "AmbientSkyColor": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5
+      },
+      "AmbientEquatorColor": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5
+      },
+      "AmbientGroundColor": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5
+      },
+      "ReflectionIntensity": 1.0,
+      "LutIndex": 0,
+      "LutContribution": 1.0
+    },
+    "Hands": {
+      "Enable": true,
+      "DisableUnused": false,
+      "Hiding": 0
+    },
+    "ComponentTags": {
+      "labels": []
+    },
+    "Turns": {
+      "Enable": false,
+      "Type": 0,
+      "TurnOrder": [],
+      "Reverse": false,
+      "SkipEmpty": false,
+      "DisableInteractions": false,
+      "PassTurns": true,
+      "TurnColor": ""
+    },
+    "DecalPallet": [],
+    "LuaScript": "--[[ Lua code. See documentation: https://api.tabletopsimulator.com/ --]]\n\n--[[ The onLoad event is called after the game save finishes loading. --]]\nfunction onLoad()\n    --[[ print('onLoad!') --]]\nend\n\n--[[ The onUpdate event is called once per frame. --]]\nfunction onUpdate()\n    --[[ print('onUpdate loop!') --]]\nend",
+    "LuaScriptState": "",
+    "XmlUI": "<!-- Xml UI. See documentation: https://api.tabletopsimulator.com/ui/introUI/ -->",
+    "ObjectStates": [
+    ]
+  }
+}

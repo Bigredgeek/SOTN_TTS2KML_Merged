@@ -1,10 +1,11 @@
+<<<<<<< HEAD
 # SOTN_TTS2KML_Merged
 
 A utility to automate the processing of Tabletop Simulator (TTS) save files from Song of the Nibelungs (SOTN) wargame sessions into KML map files. This tool coordinates the conversion of all three map layers (Tactical, Strategic, and Operational) from a single save file.
 
 ## Credits
 
-This project is built upon the original TTS2KML scripts created by Gronank. The individual map conversion scripts, coordinate transformation system, and KML generation logic were all originally developed by Gronank. This merged version simply automates the process of running those scripts for all three map layers.
+This project is built upon the original TTS2KML scripts created by Gronank. The individual map conversion scripts, coordinate transformation system, and KML generation logic were all originally developed by Gronank. This fork builds on that work by fixing the scripts to account for the changes to the maps in the TTS save from the early versions, generates a KML for all 3 map layers in the Red Strike TTS save, and adds a batch script that makes the process a one-click operation.
 
 Original repositories by Gronank:
 - [AnalyzeTTS](https://github.com/gronank/AnalyzeTTS)

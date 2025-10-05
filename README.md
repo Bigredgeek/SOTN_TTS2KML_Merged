@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # SOTN_TTS2KML_Merged
 
-A utility to automate the processing of Tabletop Simulator (TTS) save files from Song of the Nibelungs (SOTN) wargame sessions into KML map files. This tool coordinates the conversion of all three map layers (Tactical, Strategic, and Operational) from a single save file.
+A utility to automate the processing of Tabletop Simulator (TTS) save files from the Red Strike Wargame for Song of the Nibelungs (SOTN) sessions into KML map files. This tool coordinates the conversion of all three map layers (Tactical, Strategic, and Operational) from a single save file.
 
 ## Credits
 

@@ -14,6 +14,18 @@ if "%SAVE_FILE%"=="" (
 
 echo Found save file: %SAVE_FILE%
 
+REM Prompt for archive folder name
+echo.
+set /p ARCHIVE_NAME=Enter archive folder name (e.g., GT3): 
+if "%ARCHIVE_NAME%"=="" (
+    echo No archive folder name provided. Exiting.
+    pause
+    exit /b 1
+)
+set ARCHIVE_DIR=Archived KML's\%ARCHIVE_NAME%
+echo Archive folder will be: "%ARCHIVE_DIR%"
+mkdir "%ARCHIVE_DIR%" 2>nul
+
 REM Copy save file to each map folder
 echo Copying save file to map folders...
 copy "%SAVE_FILE%" "AnalyzeTTS-TacMap\TTS2KML\"
@@ -69,6 +81,27 @@ if exist "AnalyzeTTS-OpMap\TTS2KML\*.kml" (
     copy "AnalyzeTTS-OpMap\TTS2KML\*.kml" "OpMap.kml"
 ) else (
     echo Warning: No KML file generated for Operational Map
+)
+
+REM Archive the generated KML files (and the source JSON) into the chosen folder
+echo Archiving KML files to "%ARCHIVE_DIR%"...
+if exist "TacMap.kml" (
+    copy /Y "TacMap.kml" "%ARCHIVE_DIR%\TacMap.kml" >nul
+) else (
+    echo Warning: TacMap.kml not found in root; skipping archive copy
+)
+if exist "StratMap.kml" (
+    copy /Y "StratMap.kml" "%ARCHIVE_DIR%\StratMap.kml" >nul
+) else (
+    echo Warning: StratMap.kml not found in root; skipping archive copy
+)
+if exist "OpMap.kml" (
+    copy /Y "OpMap.kml" "%ARCHIVE_DIR%\OpMap.kml" >nul
+) else (
+    echo Warning: OpMap.kml not found in root; skipping archive copy
+)
+if exist "%SAVE_FILE%" (
+    copy /Y "%SAVE_FILE%" "%ARCHIVE_DIR%\%SAVE_FILE%" >nul
 )
 
 REM Cleanup

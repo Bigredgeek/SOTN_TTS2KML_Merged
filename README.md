@@ -12,11 +12,12 @@ Original repositories by Gronank:
 
 ## Overview
 
-The process works by:
+The scripts works by:
 1. Taking a TTS save file containing three map layers (TacMap, StratMap, OpMap)
 2. Using transformation data (tts2lola.json) to convert game coordinates to real-world coordinates
 3. Generating KML files for each map layer with NATO and PACT unit positions
-4. Combining all outputs into a single folder for easy web map integration
+4. Prompting you for an archive folder name and copying the outputs into an archive for long-term storage
+5. Combining the latest outputs into the repo root for easy web map integration
 
 ## How It Works
 
@@ -52,7 +53,7 @@ The Python scripts:
   └── AnalyzeTTS-OpMap/TTS2KML/
   ```
 
-## Installation
+## Dependency Installation
 
 1. Install Python:
    - Download from https://www.python.org/downloads/
@@ -74,10 +75,17 @@ The Python scripts:
 
 1. Place your TTS save file (e.g., `TS_Save_48.json`) in the main folder
 2. Run `process_maps.bat`
-3. Three KML files will be generated:
+3. When prompted, enter an archive folder name (examples: `GT3`, `2025-10-21-Turn3`)
+4. Three KML files will be generated:
    - `TacMap.kml` - Tactical layer
    - `StratMap.kml` - Strategic layer
    - `OpMap.kml` - Operational layer
+5. Outputs are also archived under `Archived KML's/<your-folder-name>/` alongside the original save JSON for traceability
+
+### Where the files go
+- Latest KMLs are copied to the repository root (for quick access)
+- A persistent copy is placed in: `Archived KML's/<your-folder-name>/`
+   - Contains: `TacMap.kml`, `StratMap.kml`, `OpMap.kml`, and the original save JSON you used
 
 ## Script Details
 
@@ -85,8 +93,8 @@ The Python scripts:
 - Finds JSON save files in the main folder
 - Copies save file to each map's TTS2KML folder
 - Runs the Python conversion scripts
-- Collects generated KML files
-- Cleans up temporary files
+- Collects generated KML files and copies then to the root folder
+- Prompts for an archive folder name and copies the generated KMLs + the source JSON into `Archived KML's/<name>/`
 
 ### AnalyzeTTS.py (in each map folder)
 - Calculates the coordinate transformation parameters for each map layer
@@ -117,17 +125,13 @@ The Python scripts:
      - Converts game coordinates to relative positions
      - Transforms relative positions to real-world coordinates
      - Validates positions against map boundaries
-  3. Handles both direct units and contained objects:
-     - Direct units: Placed directly on the map
-     - Contained units: Units in bags/containers that share parent position
-  4. Generates KML structure:
+  3. Generates KML structure:
      - Creates unique styles for each unit type using their custom images
      - Organizes units into separate folders:
        * NATO forces (units with 'NATO' tag)
        * PACT forces (units with 'WP' tag)
-       * Undefined/Neutral (units with 'Marker' tag)
+       * Undefined/Neutral (all other markers)
      - Preserves unit names, imagery, and positioning
-     - Generates valid KML format with proper XML structure
 
 ## Troubleshooting
 
@@ -145,30 +149,3 @@ The Python scripts:
    - Check tts2lola.json files are present in each TTS2KML folder
    - Verify coordinate transformations are correct for each map
    - Ensure unit Tags are properly set for NATO/PACT sorting
-
-## Notes
-
-- The script preserves all original conversion functionality
-- Each map layer maintains its own coordinate system
-- KML files contain properly organized NATO and PACT folders
-- Files are automatically cleaned up after processing
-- Generated KMLs will overwrite existing files with the same names
-
-## Technical Details
-
-### Coordinate Transformation Process
-1. Read unit position from TTS save (X,Y,Z coordinates)
-2. Apply map-specific transformation from tts2lola.json
-3. Convert to real-world coordinates (longitude/latitude)
-4. Generate KML with proper positioning and styling
-
-### Unit Organization
-- Units are sorted by NATO/PACT tags
-- Each unit maintains its custom imagery
-- KML folders organize units by faction
-- Scale and styling are preserved for web display
-=======
-Project for analyzing TTS files.
-
-See TTS2KML project for exporting a TTS save file to KML.
->>>>>>> 4a7ef831ea277731c63b77cd0f5140eff3346bbe

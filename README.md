@@ -16,7 +16,7 @@ The scripts works by:
 1. Taking a TTS save file containing three map layers (TacMap, StratMap, OpMap)
 2. Using transformation data (tts2lola.json) to convert game coordinates to real-world coordinates
 3. Generating KML files for each map layer with NATO and PACT unit positions
-4. Prompting you for an archive folder name and copying the outputs into an archive for long-term storage
+4. Prompting you for an archive folder name and copying the outputs into a folder
 5. Combining the latest outputs into the repo root for easy web map integration
 
 ## How It Works

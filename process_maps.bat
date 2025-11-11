@@ -65,20 +65,41 @@ cd ..\..
 
 REM Copy KML files back to main folder
 echo Collecting KML files...
-if exist "AnalyzeTTS-TacMap\TTS2KML\*.kml" (
-    copy "AnalyzeTTS-TacMap\TTS2KML\*.kml" "TacMap.kml"
+set "TACMAP_SOURCE="
+for %%F in ("AnalyzeTTS-TacMap\TTS2KML\*.kml") do (
+    if /I not "%%~nF"=="Sample" (
+        set "TACMAP_SOURCE=%%~fF"
+    )
+)
+if defined TACMAP_SOURCE (
+    copy /Y "!TACMAP_SOURCE!" "TacMap.kml" >nul
+    call :TrimKml "TacMap.kml"
 ) else (
     echo Warning: No KML file generated for Tactical Map
 )
 
-if exist "AnalyzeTTS-StratMap\TTS2KML\*.kml" (
-    copy "AnalyzeTTS-StratMap\TTS2KML\*.kml" "StratMap.kml"
+set "STRATMAP_SOURCE="
+for %%F in ("AnalyzeTTS-StratMap\TTS2KML\*.kml") do (
+    if /I not "%%~nF"=="Sample" (
+        set "STRATMAP_SOURCE=%%~fF"
+    )
+)
+if defined STRATMAP_SOURCE (
+    copy /Y "!STRATMAP_SOURCE!" "StratMap.kml" >nul
+    call :TrimKml "StratMap.kml"
 ) else (
     echo Warning: No KML file generated for Strategic Map
 )
 
-if exist "AnalyzeTTS-OpMap\TTS2KML\*.kml" (
-    copy "AnalyzeTTS-OpMap\TTS2KML\*.kml" "OpMap.kml"
+set "OPMAP_SOURCE="
+for %%F in ("AnalyzeTTS-OpMap\TTS2KML\*.kml") do (
+    if /I not "%%~nF"=="Sample" (
+        set "OPMAP_SOURCE=%%~fF"
+    )
+)
+if defined OPMAP_SOURCE (
+    copy /Y "!OPMAP_SOURCE!" "OpMap.kml" >nul
+    call :TrimKml "OpMap.kml"
 ) else (
     echo Warning: No KML file generated for Operational Map
 )
@@ -113,6 +134,14 @@ del "AnalyzeTTS-OpMap\TTS2KML\%SAVE_FILE%"
 echo Done! KML files have been generated.
 pause
 exit /b 0
+
+:TrimKml
+set "_trim_target=%~1"
+if not defined _trim_target exit /b
+if exist "%~1" (
+    python -c "from pathlib import Path; p = Path(r'%~f1'); data = p.read_bytes().rstrip(b'\r\n\t '); p.write_bytes(data)"
+)
+exit /b
 
 :error
 echo Script failed!

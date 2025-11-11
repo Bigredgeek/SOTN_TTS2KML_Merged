@@ -145,6 +145,7 @@ for obj in data.get('ObjectStates', []):
    
 doc = createKmlDoc('Sample', units)
 with open('Sample.kml',"wb") as out:
-        out.write(etree.tostring(doc, pretty_print=True, encoding="utf-8"))
+    xml_bytes = etree.tostring(doc, pretty_print=True, encoding="utf-8")
+    out.write(xml_bytes.rstrip(b"\r\n\t "))
 
 

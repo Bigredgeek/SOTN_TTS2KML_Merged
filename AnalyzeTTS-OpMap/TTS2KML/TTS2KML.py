@@ -1,4 +1,6 @@
 import json
+import sys
+import os
 from pykml.factory import KML_ElementMaker as KML
 from lxml import etree
 
@@ -107,7 +109,12 @@ def createKmlDoc(missionName, units):
         )
     )
 
-path = 'SampleScenario.json'
+# Get input file from command line or use default
+if len(sys.argv) > 1:
+    path = sys.argv[1]
+else:
+    path = 'SampleScenario.json'
+
 crs = GeoReferencedMap(path)
 
 with open(path) as ttsFile:
@@ -147,8 +154,12 @@ for obj in data.get('ObjectStates', []):
                 item['Transform'] = parent_transform
                 units.append((item, parent_pos))
    
-doc = createKmlDoc('Sample', units)
-with open('Sample.kml',"wb") as out:
+# Generate output filename from input filename
+base_name = os.path.splitext(os.path.basename(path))[0]
+output_file = f'{base_name}.kml'
+
+doc = createKmlDoc(base_name, units)
+with open(output_file, "wb") as out:
     xml_bytes = etree.tostring(doc, pretty_print=True, encoding="utf-8")
     out.write(xml_bytes.rstrip(b"\r\n\t "))
 

@@ -1,7 +1,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
   <Document>
-    <Name>TS_Save_124</Name>
-    <Style id="MHG-18helo">
+    <Name>TS_Save_124 (2)</Name>
+    <Style id="MHG-18(helo)">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -49,7 +49,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="3ArmyEGHQ">
+    <Style id="3Army(EG)HQ">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -65,7 +65,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="KHG-31AttkAv">
+    <Style id="KHG-3/1AttkAv">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -81,7 +81,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="3EGMissileBde">
+    <Style id="3(EG)MissileBde">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -89,7 +89,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="KHG-32AttkAv">
+    <Style id="KHG-3/2AttkAv">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -113,7 +113,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="HQ2AD">
+    <Style id="HQ/2AD">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -121,7 +121,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="HQ5ID">
+    <Style id="HQ/5ID">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -129,7 +129,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="HQ1Cav">
+    <Style id="HQ/1Cav">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -137,7 +137,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="12AD">
+    <Style id="1/2AD">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -169,7 +169,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="22AD">
+    <Style id="2/2AD">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -177,7 +177,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="2Cav">
+    <Style id="2/Cav">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -185,7 +185,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="315ID">
+    <Style id="3/15ID">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -217,7 +217,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="1551Cav">
+    <Style id="155/1Cav">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -225,7 +225,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="25ID">
+    <Style id="2/5ID">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -233,7 +233,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="32AD">
+    <Style id="3/2AD">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -241,7 +241,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="1Cav">
+    <Style id="1/Cav">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -249,7 +249,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="15ID">
+    <Style id="1/5ID">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -257,7 +257,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="212AD">
+    <Style id="2/12AD">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -265,7 +265,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="171Cav">
+    <Style id="1/71Cav">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -273,7 +273,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="2565ID">
+    <Style id="256/5ID">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -393,7 +393,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="NORTHAGBAORHQ">
+    <Style id="NORTHAG/BAORHQ">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -425,7 +425,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="4DKLLZCorpsDN">
+    <Style id="4DKL/LZCorpsDN">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -433,7 +433,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="LZBGLZCorpsDN">
+    <Style id="LZBG/LZCorpsDN">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -441,7 +441,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="2ZLZCorpsDN">
+    <Style id="2Z/LZCorpsDN">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -449,7 +449,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="1ZLZCorpsDN">
+    <Style id="1Z/LZCorpsDN">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -457,7 +457,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="HQLandZeaCorpsDN">
+    <Style id="HQ/LandZeaCorpsDN">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -499,7 +499,7 @@
     </Style>
     <Style id="SOC-Uedem">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/13299153217850256376/3F9DDEE05B4B77E00BA566358CC59F207D963FCB/</href>
         </Icon>
@@ -507,7 +507,7 @@
     </Style>
     <Style id="CRCErndtebruck">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/17513315737680553650/515D3ECD169214B684502F314DDDD0A36BD0AB8D/</href>
         </Icon>
@@ -515,7 +515,7 @@
     </Style>
     <Style id="SOC-Brokzetel">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/13337037054354838353/E62816D11F048A9A7B6C4B095B9BAE644E8FC312/</href>
         </Icon>
@@ -523,7 +523,7 @@
     </Style>
     <Style id="HQCottbus">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/17678587528004496127/4CA5431D56E5514FF10D0905CD02454CF76CD3C2/</href>
         </Icon>
@@ -531,7 +531,7 @@
     </Style>
     <Style id="FuTB-61">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/10391803521500627000/AE8FC93C72A382F34AD5FFA59CDEC49A2137D7CD/</href>
         </Icon>
@@ -539,7 +539,7 @@
     </Style>
     <Style id="FuTB-31">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/9790113814643462176/67B4D9707EC3864DC41A36F60A32BBC91A20DDFA/</href>
         </Icon>
@@ -547,7 +547,7 @@
     </Style>
     <Style id="FuTB-33">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/11699551960362363460/B7ECBD7F62A41D6A9791EAF865A30C0698B231D3/</href>
         </Icon>
@@ -555,7 +555,7 @@
     </Style>
     <Style id="FuTB-23">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/16276748280352460209/8C38720CCEFE3FF1A68A4C8E71456ACD4C133763/</href>
         </Icon>
@@ -563,7 +563,7 @@
     </Style>
     <Style id="FuTB-41">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/15924110641114755292/2A48EBF8EBAF8A40FD6E3AEC9E73D7C238526B7F/</href>
         </Icon>
@@ -571,71 +571,7 @@
     </Style>
     <Style id="15">
       <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/958597478463059274/DE73B64E1B5C6F272EA3BEE5EF458E73E48FF03D/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="15">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/958597478463059274/DE73B64E1B5C6F272EA3BEE5EF458E73E48FF03D/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="15">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/958597478463059274/DE73B64E1B5C6F272EA3BEE5EF458E73E48FF03D/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="15">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/958597478463059274/DE73B64E1B5C6F272EA3BEE5EF458E73E48FF03D/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="15">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/958597478463059274/DE73B64E1B5C6F272EA3BEE5EF458E73E48FF03D/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="15">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/958597478463059274/DE73B64E1B5C6F272EA3BEE5EF458E73E48FF03D/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="15">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/958597478463059274/DE73B64E1B5C6F272EA3BEE5EF458E73E48FF03D/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="15">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/958597478463059274/DE73B64E1B5C6F272EA3BEE5EF458E73E48FF03D/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="15">
-      <IconStyle>
-        <scale>1.7</scale>
+        <scale>0.85</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/958597478463059274/DE73B64E1B5C6F272EA3BEE5EF458E73E48FF03D/</href>
         </Icon>
@@ -673,7 +609,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="WG2ZGschwHamburg">
+    <Style id="WG2.ZGschwHamburg">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -697,7 +633,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="DNEsdadre1NJuel">
+    <Style id="DNEsdadre1N.Juel">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -715,159 +651,7 @@
     </Style>
     <Style id="AirGroundTargetTracking">
       <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
         </Icon>
@@ -875,7 +659,7 @@
     </Style>
     <Style id="NATOMissionStartA-Map">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/17854298178359995968/010B73C2A6D09E6734BE62F73953F16A3FFE1362/</href>
         </Icon>
@@ -883,7 +667,7 @@
     </Style>
     <Style id="NATOTarget">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/12924182098333179535/9B1A078995F485E8DE9093DD36F3AAB27501FE32/</href>
         </Icon>
@@ -891,15 +675,15 @@
     </Style>
     <Style id="NATO-CAPUndetDet-B">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/13903470460292776938/05E15C83236BC86FA5C19030F671F0A25F153031/</href>
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="NATOForm-upRecoveryPoint">
+    <Style id="NATOForm-up/RecoveryPoint">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/11525173211218728653/70242E5B6C3ECF11B5EF0870303ED1D0DA0D4F36/</href>
         </Icon>
@@ -907,7 +691,7 @@
     </Style>
     <Style id="NATO-CAPUndetDet-C">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/17694546121058188376/92EB2C61E7C59F86D562A0F46575BEE3BDDB88F2/</href>
         </Icon>
@@ -915,7 +699,7 @@
     </Style>
     <Style id="CRCSkrydstrup">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/13146211937765998656/D27BBCA3D2D97BC4D68AFDECD11EC1C2FD26D1E8/</href>
         </Icon>
@@ -929,7 +713,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="144SDRLO1">
+    <Style id="144SDRLO/1">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -939,17 +723,9 @@
     </Style>
     <Style id="WP-CAPUndetDet-2">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/14380899308696070251/78F1CE582E0CF61C6C7A3568B46B24DDA283FF06/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="NATO-CAPUndetDet-B">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/13903470460292776938/05E15C83236BC86FA5C19030F671F0A25F153031/</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -969,14 +745,6 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="NATO-CAPUndetDet-B">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/13903470460292776938/05E15C83236BC86FA5C19030F671F0A25F153031/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
     <Style id="31SqdBE">
       <IconStyle>
         <scale>1.7</scale>
@@ -985,15 +753,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="NATO-CAPUndetDet-C">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/17694546121058188376/92EB2C61E7C59F86D562A0F46575BEE3BDDB88F2/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="787IAP2">
+    <Style id="787IAP/2">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -1001,60 +761,52 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="NATOMissionStartA-Map">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/17854298178359995968/010B73C2A6D09E6734BE62F73953F16A3FFE1362/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
     <Folder>
       <name>NATO_OpMap</name>
       <Placemark>
         <name>HQ/2AD</name>
-        <styleUrl>#HQ2AD</styleUrl>
+        <styleUrl>#HQ/2AD</styleUrl>
         <Point>
           <coordinates>7.970266796106652,51.855961572997195</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>HQ/5ID</name>
-        <styleUrl>#HQ5ID</styleUrl>
+        <styleUrl>#HQ/5ID</styleUrl>
         <Point>
           <coordinates>7.469972060651855,51.973512852001576</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>HQ/1Cav</name>
-        <styleUrl>#HQ1Cav</styleUrl>
+        <styleUrl>#HQ/1Cav</styleUrl>
         <Point>
           <coordinates>8.731336781037264,51.668584583913905</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>1/2AD</name>
-        <styleUrl>#12AD</styleUrl>
+        <styleUrl>#1/2AD</styleUrl>
         <Point>
           <coordinates>8.012543898725518,51.82004604563256</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>1-5 5ID Attk Av</name>
+        <name>1-55IDAttkAv</name>
         <styleUrl>#1-55IDAttkAv</styleUrl>
         <Point>
           <coordinates>7.423549289880784,51.995848813904566</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>27 Abn Bde I Korps</name>
+        <name>27AbnBdeIKorps</name>
         <styleUrl>#27AbnBdeIKorps</styleUrl>
         <Point>
           <coordinates>8.096510303560159,52.101935772056166</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>3 ACR</name>
+        <name>3ACR</name>
         <styleUrl>#3ACR</styleUrl>
         <Point>
           <coordinates>7.633143331572999,51.760768796371465</coordinates>
@@ -1062,41 +814,41 @@
       </Placemark>
       <Placemark>
         <name>2/2AD</name>
-        <styleUrl>#22AD</styleUrl>
+        <styleUrl>#2/2AD</styleUrl>
         <Point>
           <coordinates>8.049292276168524,51.81785490686185</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>2/Cav</name>
-        <styleUrl>#2Cav</styleUrl>
+        <styleUrl>#2/Cav</styleUrl>
         <Point>
           <coordinates>8.715548436647804,51.669456603874416</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>3/1 5ID</name>
-        <styleUrl>#315ID</styleUrl>
+        <name>3/15ID</name>
+        <styleUrl>#3/15ID</styleUrl>
         <Point>
           <coordinates>7.421859823240547,51.99783512811979</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>129 Missile Rgt</name>
+        <name>129MissileRgt</name>
         <styleUrl>#129MissileRgt</styleUrl>
         <Point>
           <coordinates>7.340512867678698,53.307400411185945</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>304 Bde NL</name>
+        <name>304BdeNL</name>
         <styleUrl>#304BdeNL</styleUrl>
         <Point>
           <coordinates>7.7613416279491325,53.33200343815967</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>101 Bde NL</name>
+        <name>101BdeNL</name>
         <styleUrl>#101BdeNL</styleUrl>
         <Point>
           <coordinates>8.821796217989414,53.153446709108174</coordinates>
@@ -1104,307 +856,307 @@
       </Placemark>
       <Placemark>
         <name>155/1Cav</name>
-        <styleUrl>#1551Cav</styleUrl>
+        <styleUrl>#155/1Cav</styleUrl>
         <Point>
           <coordinates>8.738247067571692,51.67143550132604</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>2/5ID</name>
-        <styleUrl>#25ID</styleUrl>
+        <styleUrl>#2/5ID</styleUrl>
         <Point>
           <coordinates>7.446993834262506,51.97270217282916</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>3/2AD</name>
-        <styleUrl>#32AD</styleUrl>
+        <styleUrl>#3/2AD</styleUrl>
         <Point>
           <coordinates>7.980572957519577,51.84896689237837</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>1/Cav</name>
-        <styleUrl>#1Cav</styleUrl>
+        <styleUrl>#1/Cav</styleUrl>
         <Point>
           <coordinates>8.712175151544718,51.66463988118527</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>1/5ID</name>
-        <styleUrl>#15ID</styleUrl>
+        <styleUrl>#1/5ID</styleUrl>
         <Point>
           <coordinates>7.414281040690901,52.01237002066009</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>2/1 2AD</name>
-        <styleUrl>#212AD</styleUrl>
+        <name>2/12AD</name>
+        <styleUrl>#2/12AD</styleUrl>
         <Point>
           <coordinates>7.993822115187294,51.84404609788222</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>1/7 1Cav</name>
-        <styleUrl>#171Cav</styleUrl>
+        <name>1/71Cav</name>
+        <styleUrl>#1/71Cav</styleUrl>
         <Point>
           <coordinates>8.730208251395092,51.65813090189141</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>256/5ID</name>
-        <styleUrl>#2565ID</styleUrl>
+        <styleUrl>#256/5ID</styleUrl>
         <Point>
           <coordinates>7.440023971765847,51.97436984200277</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>4 DA HQ FR</name>
+        <name>4DAHQFR</name>
         <styleUrl>#4DAHQFR</styleUrl>
         <Point>
           <coordinates>8.378768710003857,52.10271561609363</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>655 Attk Av UK</name>
+        <name>655AttkAvUK</name>
         <styleUrl>#655AttkAvUK</styleUrl>
         <Point>
           <coordinates>1.1874050104533236,52.24416548315611</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>1 RCAM 4 DA FR</name>
+        <name>1RCAM4DAFR</name>
         <styleUrl>#1RCAM4DAFR</styleUrl>
         <Point>
           <coordinates>8.377761892343695,52.10032970677062</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>9 Mar Div FAR FR</name>
+        <name>9MarDivFARFR</name>
         <styleUrl>#9MarDivFARFR</styleUrl>
         <Point>
           <coordinates>2.7041379897002207,49.235561392919735</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>FAR Corps FR</name>
+        <name>FARCorpsFR</name>
         <styleUrl>#FARCorpsFR</styleUrl>
         <Point>
           <coordinates>2.8643365573102235,49.513049817429206</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>19 Missile Rgt</name>
+        <name>19MissileRgt</name>
         <styleUrl>#19MissileRgt</styleUrl>
         <Point>
           <coordinates>4.445579490862633,50.83702517315088</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>4 Missile Rgt</name>
+        <name>4MissileRgt</name>
         <styleUrl>#4MissileRgt</styleUrl>
         <Point>
           <coordinates>4.4516915927782925,50.67725888298091</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>50 Missile Rgt</name>
+        <name>50MissileRgt</name>
         <styleUrl>#50MissileRgt</styleUrl>
         <Point>
           <coordinates>8.768629761497452,52.184414257811724</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>5 Ab Bde UK</name>
+        <name>5AbBdeUK</name>
         <styleUrl>#5AbBdeUK</styleUrl>
         <Point>
           <coordinates>0.9180605375213959,52.208002085168445</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>93 WG Res</name>
+        <name>93WGRes</name>
         <styleUrl>#93WGRes</styleUrl>
         <Point>
           <coordinates>7.5957612701471495,52.242125506975256</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>83 WG Res</name>
+        <name>83WGRes</name>
         <styleUrl>#83WGRes</styleUrl>
         <Point>
           <coordinates>8.763958115704083,52.175019537252844</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>73 WG Res</name>
+        <name>73WGRes</name>
         <styleUrl>#73WGRes</styleUrl>
         <Point>
           <coordinates>8.463228123224699,52.340476328420735</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>82 WG Res</name>
+        <name>82WGRes</name>
         <styleUrl>#82WGRes</styleUrl>
         <Point>
           <coordinates>8.82959126263641,52.33749634939693</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>FKG2 Missile WG</name>
+        <name>FKG2MissileWG</name>
         <styleUrl>#FKG2MissileWG</styleUrl>
         <Point>
           <coordinates>7.042934290904722,51.5608110435801</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>NORTHAG/BAOR HQ</name>
-        <styleUrl>#NORTHAGBAORHQ</styleUrl>
+        <name>NORTHAG/BAORHQ</name>
+        <styleUrl>#NORTHAG/BAORHQ</styleUrl>
         <Point>
           <coordinates>8.752146083809551,52.17826109664824</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>1 Bn AMF</name>
+        <name>1BnAMF</name>
         <styleUrl>#1BnAMF</styleUrl>
         <Point>
           <coordinates>6.044242494776671,49.7317734397831</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Para Rgt AMF</name>
+        <name>ParaRgtAMF</name>
         <styleUrl>#ParaRgtAMF</styleUrl>
         <Point>
           <coordinates>5.506758103047425,50.673439272299134</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>HFR6 Attk Av</name>
+        <name>HFR6AttkAv</name>
         <styleUrl>#HFR6AttkAv</styleUrl>
         <Point>
           <coordinates>9.278804959597842,54.00449199435832</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>4 DKL/LZ Corps DN</name>
-        <styleUrl>#4DKLLZCorpsDN</styleUrl>
+        <name>4DKL/LZCorpsDN</name>
+        <styleUrl>#4DKL/LZCorpsDN</styleUrl>
         <Point>
           <coordinates>11.511893343700521,55.31623658626281</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>LZBG/LZ Corps DN</name>
-        <styleUrl>#LZBGLZCorpsDN</styleUrl>
+        <name>LZBG/LZCorpsDN</name>
+        <styleUrl>#LZBG/LZCorpsDN</styleUrl>
         <Point>
           <coordinates>11.710343793217564,55.50944745714494</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>2Z/LZ Corps DN</name>
-        <styleUrl>#2ZLZCorpsDN</styleUrl>
+        <name>2Z/LZCorpsDN</name>
+        <styleUrl>#2Z/LZCorpsDN</styleUrl>
         <Point>
           <coordinates>12.114871986771654,55.095400085788924</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>1Z/LZ Corps DN</name>
-        <styleUrl>#1ZLZCorpsDN</styleUrl>
+        <name>1Z/LZCorpsDN</name>
+        <styleUrl>#1Z/LZCorpsDN</styleUrl>
         <Point>
           <coordinates>12.14950918108147,55.48133521705508</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>HQ/LandZea Corps DN</name>
-        <styleUrl>#HQLandZeaCorpsDN</styleUrl>
+        <name>HQ/LandZeaCorpsDN</name>
+        <styleUrl>#HQ/LandZeaCorpsDN</styleUrl>
         <Point>
           <coordinates>12.787180837528638,55.69564051621486</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>110 Bde</name>
+        <name>110Bde</name>
         <styleUrl>#110Bde</styleUrl>
         <Point>
           <coordinates>2.8741294613581,50.171306519806464</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>107 Bde</name>
+        <name>107Bde</name>
         <styleUrl>#107Bde</styleUrl>
         <Point>
           <coordinates>2.888816708541192,50.18223390367053</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>108 Bde</name>
+        <name>108Bde</name>
         <styleUrl>#108Bde</styleUrl>
         <Point>
           <coordinates>3.826909381181478,49.40252586699783</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>102 Bde FR</name>
+        <name>102BdeFR</name>
         <styleUrl>#102BdeFR</styleUrl>
         <Point>
           <coordinates>3.8483694705311513,49.40993448942498</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>WG 2.ZGschw Hamburg</name>
-        <styleUrl>#WG2ZGschwHamburg</styleUrl>
+        <name>WG2.ZGschwHamburg</name>
+        <styleUrl>#WG2.ZGschwHamburg</styleUrl>
         <Point>
           <coordinates>6.915295104993132,54.783017135306835</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>DN SS Kobben</name>
+        <name>DNSSKobben</name>
         <styleUrl>#DNSSKobben</styleUrl>
         <Point>
           <coordinates>12.771098645138064,55.300110721892</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>DN Esdadre 2 Willemoes</name>
+        <name>DNEsdadre2Willemoes</name>
         <styleUrl>#DNEsdadre2Willemoes</styleUrl>
         <Point>
           <coordinates>12.090001550038048,56.388282699712015</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>DN Esdadre 1 N. Juel</name>
-        <styleUrl>#DNEsdadre1NJuel</styleUrl>
+        <name>DNEsdadre1N.Juel</name>
+        <styleUrl>#DNEsdadre1N.Juel</styleUrl>
         <Point>
           <coordinates>10.827095979601284,54.67874468071732</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>US SAG-4 Ticonderoga</name>
+        <name>USSAG-4Ticonderoga</name>
         <styleUrl>#USSAG-4Ticonderoga</styleUrl>
         <Point>
           <coordinates>4.823580414596149,58.60205727783349</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>1 Sqd EWDA</name>
+        <name>1SqdEWDA</name>
         <styleUrl>#1SqdEWDA</styleUrl>
         <Point>
           <coordinates>8.441385069127048,52.70723029332476</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>III Corps</name>
+        <name>IIICorps</name>
         <styleUrl>#IIICorps</styleUrl>
         <Point>
           <coordinates>7.610838476842452,51.7616268220686</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>306 Sqd NL</name>
+        <name>306SqdNL</name>
         <styleUrl>#306SqdNL</styleUrl>
         <Point>
           <coordinates>8.826675670875666,52.71584364203212</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>31 Sqd BE</name>
+        <name>31SqdBE</name>
         <styleUrl>#31SqdBE</styleUrl>
         <Point>
           <coordinates>8.726065722153892,52.48781038633635</coordinates>
@@ -1414,141 +1166,141 @@
     <Folder>
       <name>Pact_OpMap</name>
       <Placemark>
-        <name>MHG-18 (helo)</name>
-        <styleUrl>#MHG-18helo</styleUrl>
+        <name>MHG-18(helo)</name>
+        <styleUrl>#MHG-18(helo)</styleUrl>
         <Point>
           <coordinates>13.288692966474837,54.45509879650776</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>4 Missile Bde</name>
+        <name>4MissileBde</name>
         <styleUrl>#4MissileBde</styleUrl>
         <Point>
           <coordinates>13.727295971572802,51.07739391523924</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>164 Missile Bde</name>
+        <name>164MissileBde</name>
         <styleUrl>#164MissileBde</styleUrl>
         <Point>
           <coordinates>13.628908864256893,52.21901102928396</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>3 Missile Bde</name>
+        <name>3MissileBde</name>
         <styleUrl>#3MissileBde</styleUrl>
         <Point>
           <coordinates>13.975604657681545,51.738972066150936</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>1 Missile Bde</name>
+        <name>1MissileBde</name>
         <styleUrl>#1MissileBde</styleUrl>
         <Point>
           <coordinates>13.70475174136626,51.08208943527141</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>6 Missile Bde</name>
+        <name>6MissileBde</name>
         <styleUrl>#6MissileBde</styleUrl>
         <Point>
           <coordinates>13.643030125248364,52.21159736314571</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>3 Army (EG) HQ</name>
-        <styleUrl>#3ArmyEGHQ</styleUrl>
+        <name>3Army(EG)HQ</name>
+        <styleUrl>#3Army(EG)HQ</styleUrl>
         <Point>
           <coordinates>12.289061433034409,50.95114680103839</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>10 MSD</name>
+        <name>10MSD</name>
         <styleUrl>#10MSD</styleUrl>
         <Point>
           <coordinates>12.676958269058861,50.88201261708096</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>KHG-3/1 Attk Av</name>
-        <styleUrl>#KHG-31AttkAv</styleUrl>
+        <name>KHG-3/1AttkAv</name>
+        <styleUrl>#KHG-3/1AttkAv</styleUrl>
         <Point>
           <coordinates>12.179129205987158,51.34214709637886</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>7 PD</name>
+        <name>7PD</name>
         <styleUrl>#7PD</styleUrl>
         <Point>
           <coordinates>13.297698728620311,51.07559706696174</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>3 (EG) Missile Bde</name>
-        <styleUrl>#3EGMissileBde</styleUrl>
+        <name>3(EG)MissileBde</name>
+        <styleUrl>#3(EG)MissileBde</styleUrl>
         <Point>
           <coordinates>12.052875123186288,51.13751702276448</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>KHG-3/2 Attk Av</name>
-        <styleUrl>#KHG-32AttkAv</styleUrl>
+        <name>KHG-3/2AttkAv</name>
+        <styleUrl>#KHG-3/2AttkAv</styleUrl>
         <Point>
           <coordinates>12.253409230633824,51.35004430560443</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>4 MSD</name>
+        <name>4MSD</name>
         <styleUrl>#4MSD</styleUrl>
         <Point>
           <coordinates>11.814541224577145,50.94359010494342</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>11 MSD</name>
+        <name>11MSD</name>
         <styleUrl>#11MSD</styleUrl>
         <Point>
           <coordinates>12.449860312955117,51.575382403594276</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>SO SAG 6 Krivak</name>
+        <name>SOSAG6Krivak</name>
         <styleUrl>#SOSAG6Krivak</styleUrl>
         <Point>
           <coordinates>12.9632833172317,54.65593887359499</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>SO ASW 1 Udaloy</name>
+        <name>SOASW1Udaloy</name>
         <styleUrl>#SOASW1Udaloy</styleUrl>
         <Point>
           <coordinates>14.688470097105984,54.10497846931283</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>EG SAG Parchim</name>
+        <name>EGSAGParchim</name>
         <styleUrl>#EGSAGParchim</styleUrl>
         <Point>
           <coordinates>14.125013189326207,54.35101312184158</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>PO SAG 1 Kashin</name>
+        <name>POSAG1Kashin</name>
         <styleUrl>#POSAG1Kashin</styleUrl>
         <Point>
           <coordinates>14.621417858848677,54.78312171418397</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>144 SDRLO/1</name>
-        <styleUrl>#144SDRLO1</styleUrl>
+        <name>144SDRLO/1</name>
+        <styleUrl>#144SDRLO/1</styleUrl>
         <Point>
           <coordinates>14.246800848325663,52.83287741553156</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>787 IAP/2</name>
-        <styleUrl>#787IAP2</styleUrl>
+        <name>787IAP/2</name>
+        <styleUrl>#787IAP/2</styleUrl>
         <Point>
           <coordinates>12.537105330491606,52.037335252384565</coordinates>
         </Point>
@@ -1564,7 +1316,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>CRC Erndtebruck</name>
+        <name>CRCErndtebruck</name>
         <styleUrl>#CRCErndtebruck</styleUrl>
         <Point>
           <coordinates>8.284555477855253,51.134112792440774</coordinates>
@@ -1578,7 +1330,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>HQ Cottbus</name>
+        <name>HQCottbus</name>
         <styleUrl>#HQCottbus</styleUrl>
         <Point>
           <coordinates>14.30172495705666,51.69750196953194</coordinates>
@@ -1620,217 +1372,217 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Air Ground Target Tracking</name>
+        <name>AirGroundTargetTracking</name>
         <styleUrl>#AirGroundTargetTracking</styleUrl>
         <Point>
           <coordinates>11.645271602946272,53.799405993768374</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Air Ground Target Tracking</name>
+        <name>AirGroundTargetTracking</name>
         <styleUrl>#AirGroundTargetTracking</styleUrl>
         <Point>
           <coordinates>11.428797464871149,53.60260984651362</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Air Ground Target Tracking</name>
+        <name>AirGroundTargetTracking</name>
         <styleUrl>#AirGroundTargetTracking</styleUrl>
         <Point>
           <coordinates>11.214539232408958,53.36005192873955</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Air Ground Target Tracking</name>
+        <name>AirGroundTargetTracking</name>
         <styleUrl>#AirGroundTargetTracking</styleUrl>
         <Point>
           <coordinates>11.39580600030336,53.16248808618193</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Air Ground Target Tracking</name>
+        <name>AirGroundTargetTracking</name>
         <styleUrl>#AirGroundTargetTracking</styleUrl>
         <Point>
           <coordinates>11.64599687952032,52.89741200307159</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Air Ground Target Tracking</name>
+        <name>AirGroundTargetTracking</name>
         <styleUrl>#AirGroundTargetTracking</styleUrl>
         <Point>
           <coordinates>11.436517324964381,52.665125033407094</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Air Ground Target Tracking</name>
+        <name>AirGroundTargetTracking</name>
         <styleUrl>#AirGroundTargetTracking</styleUrl>
         <Point>
           <coordinates>11.266755522910508,52.45940624835008</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Air Ground Target Tracking</name>
+        <name>AirGroundTargetTracking</name>
         <styleUrl>#AirGroundTargetTracking</styleUrl>
         <Point>
           <coordinates>11.463864436160407,52.217429427542974</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Air Ground Target Tracking</name>
+        <name>AirGroundTargetTracking</name>
         <styleUrl>#AirGroundTargetTracking</styleUrl>
         <Point>
           <coordinates>11.62050351234516,52.02381515769375</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Air Ground Target Tracking</name>
+        <name>AirGroundTargetTracking</name>
         <styleUrl>#AirGroundTargetTracking</styleUrl>
         <Point>
           <coordinates>11.399313700967392,51.8110182057569</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Air Ground Target Tracking</name>
+        <name>AirGroundTargetTracking</name>
         <styleUrl>#AirGroundTargetTracking</styleUrl>
         <Point>
           <coordinates>10.977019532615346,51.8202010440804</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Air Ground Target Tracking</name>
+        <name>AirGroundTargetTracking</name>
         <styleUrl>#AirGroundTargetTracking</styleUrl>
         <Point>
           <coordinates>11.24911554776769,52.03098412183161</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Air Ground Target Tracking</name>
+        <name>AirGroundTargetTracking</name>
         <styleUrl>#AirGroundTargetTracking</styleUrl>
         <Point>
           <coordinates>11.00596868750606,52.286271170629256</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Air Ground Target Tracking</name>
+        <name>AirGroundTargetTracking</name>
         <styleUrl>#AirGroundTargetTracking</styleUrl>
         <Point>
           <coordinates>10.75313372740241,52.504557216607886</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Air Ground Target Tracking</name>
+        <name>AirGroundTargetTracking</name>
         <styleUrl>#AirGroundTargetTracking</styleUrl>
         <Point>
           <coordinates>11.006726221558857,52.76385431203786</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Air Ground Target Tracking</name>
+        <name>AirGroundTargetTracking</name>
         <styleUrl>#AirGroundTargetTracking</styleUrl>
         <Point>
           <coordinates>11.264788498602838,52.92728194390918</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Air Ground Target Tracking</name>
+        <name>AirGroundTargetTracking</name>
         <styleUrl>#AirGroundTargetTracking</styleUrl>
         <Point>
           <coordinates>10.97114751313134,53.18612330624678</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Air Ground Target Tracking</name>
+        <name>AirGroundTargetTracking</name>
         <styleUrl>#AirGroundTargetTracking</styleUrl>
         <Point>
           <coordinates>10.869106968283747,53.39238849071995</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Air Ground Target Tracking</name>
+        <name>AirGroundTargetTracking</name>
         <styleUrl>#AirGroundTargetTracking</styleUrl>
         <Point>
           <coordinates>10.994041922680225,53.59324513290464</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Air Ground Target Tracking</name>
+        <name>AirGroundTargetTracking</name>
         <styleUrl>#AirGroundTargetTracking</styleUrl>
         <Point>
           <coordinates>11.202543533851946,53.81888775975764</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>NATO Mission Start A-Map</name>
+        <name>NATOMissionStartA-Map</name>
         <styleUrl>#NATOMissionStartA-Map</styleUrl>
         <Point>
           <coordinates>7.818361870031403,54.57075859415833</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>NATO Target</name>
+        <name>NATOTarget</name>
         <styleUrl>#NATOTarget</styleUrl>
         <Point>
           <coordinates>5.365332542599862,53.82151448114632</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>NATO-CAP Undet Det-B</name>
+        <name>NATO-CAPUndetDet-B</name>
         <styleUrl>#NATO-CAPUndetDet-B</styleUrl>
         <Point>
           <coordinates>5.8773562143561415,53.85534782594603</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>NATO Form-up/Recovery Point</name>
-        <styleUrl>#NATOForm-upRecoveryPoint</styleUrl>
+        <name>NATOForm-up/RecoveryPoint</name>
+        <styleUrl>#NATOForm-up/RecoveryPoint</styleUrl>
         <Point>
           <coordinates>5.672014033767217,54.00207871500648</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>NATO-CAP Undet Det-C</name>
+        <name>NATO-CAPUndetDet-C</name>
         <styleUrl>#NATO-CAPUndetDet-C</styleUrl>
         <Point>
           <coordinates>6.263998007146439,53.99092398376947</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>CRC Skrydstrup</name>
+        <name>CRCSkrydstrup</name>
         <styleUrl>#CRCSkrydstrup</styleUrl>
         <Point>
           <coordinates>9.167123520515513,55.311986616419105</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>WP-CAP Undet Det-2</name>
+        <name>WP-CAPUndetDet-2</name>
         <styleUrl>#WP-CAPUndetDet-2</styleUrl>
         <Point>
           <coordinates>12.53608300148565,52.04240509561182</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>NATO-CAP Undet Det-B</name>
+        <name>NATO-CAPUndetDet-B</name>
         <styleUrl>#NATO-CAPUndetDet-B</styleUrl>
         <Point>
           <coordinates>5.922011887648614,54.1859736384883</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>NATO-CAP Undet Det-B</name>
+        <name>NATO-CAPUndetDet-B</name>
         <styleUrl>#NATO-CAPUndetDet-B</styleUrl>
         <Point>
           <coordinates>8.796900088868043,52.714867439528994</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>NATO-CAP Undet Det-C</name>
+        <name>NATO-CAPUndetDet-C</name>
         <styleUrl>#NATO-CAPUndetDet-C</styleUrl>
         <Point>
           <coordinates>8.694891621837018,52.492926046192956</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>NATO Mission Start A-Map</name>
+        <name>NATOMissionStartA-Map</name>
         <styleUrl>#NATOMissionStartA-Map</styleUrl>
         <Point>
           <coordinates>1.5704199612178629,53.68606459412705</coordinates>

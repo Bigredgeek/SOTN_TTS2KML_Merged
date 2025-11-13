@@ -19,15 +19,23 @@
     </Style>
     <Style id="20">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/17356976762857751925/26B1A940DC13B7DF454A932E6488014440F176D9/</href>
         </Icon>
       </IconStyle>
     </Style>
+    <Style id="8">
+      <IconStyle>
+        <scale>0.85</scale>
+        <Icon>
+          <href>https://steamusercontent-a.akamaihd.net/ugc/958597478463059274/DE73B64E1B5C6F272EA3BEE5EF458E73E48FF03D/</href>
+        </Icon>
+      </IconStyle>
+    </Style>
     <Style id="">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>0.75</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/10144907398872417582/74701FE7D2FE1F8C465CD8B717764EDEC0C1BF6C/</href>
         </Icon>
@@ -1739,15 +1747,7 @@
     </Style>
     <Style id="2">
       <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/9380870991583174912/5C52FA45F09C4E099B5A3D606499C78914F03461/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="2">
-      <IconStyle>
-        <scale>1.7</scale>
+        <scale>0.85</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/9380870991583174912/5C52FA45F09C4E099B5A3D606499C78914F03461/</href>
         </Icon>
@@ -1755,39 +1755,15 @@
     </Style>
     <Style id="4">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>0.85</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/17823480101379180966/B58CD2BA9BFF66E89DAFA90125FD88F66CE111A7/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="2">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/17823480101379180966/B58CD2BA9BFF66E89DAFA90125FD88F66CE111A7/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="2">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/9380870991583174912/5C52FA45F09C4E099B5A3D606499C78914F03461/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="2">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/9380870991583174912/5C52FA45F09C4E099B5A3D606499C78914F03461/</href>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="1">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/9380870991583174912/5C52FA45F09C4E099B5A3D606499C78914F03461/</href>
         </Icon>
@@ -1795,7 +1771,7 @@
     </Style>
     <Style id="10">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>0.85</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/17356976762857751925/26B1A940DC13B7DF454A932E6488014440F176D9/</href>
         </Icon>
@@ -1803,31 +1779,15 @@
     </Style>
     <Style id="35">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/17356976762857751925/26B1A940DC13B7DF454A932E6488014440F176D9/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="10">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/17356976762857751925/26B1A940DC13B7DF454A932E6488014440F176D9/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="2">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/9380870991583174912/5C52FA45F09C4E099B5A3D606499C78914F03461/</href>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="0">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/9380870991583174912/5C52FA45F09C4E099B5A3D606499C78914F03461/</href>
         </Icon>
@@ -1835,103 +1795,47 @@
     </Style>
     <Style id="3">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/9380870991583174912/5C52FA45F09C4E099B5A3D606499C78914F03461/</href>
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="1">
+    <Style id="15">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>0.85</scale>
         <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/14289460640485043387/EA18692FECFB7B91D40132CD3BD38252F3DE33E9/</href>
+          <href>https://steamusercontent-a.akamaihd.net/ugc/958597478463059274/DE73B64E1B5C6F272EA3BEE5EF458E73E48FF03D/</href>
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="1">
+    <Style id="14">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>0.85</scale>
         <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/14289460640485043387/EA18692FECFB7B91D40132CD3BD38252F3DE33E9/</href>
+          <href>https://steamusercontent-a.akamaihd.net/ugc/958597478463059274/DE73B64E1B5C6F272EA3BEE5EF458E73E48FF03D/</href>
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="1">
+    <Style id="13">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>0.85</scale>
         <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/14289460640485043387/EA18692FECFB7B91D40132CD3BD38252F3DE33E9/</href>
+          <href>https://steamusercontent-a.akamaihd.net/ugc/958597478463059274/DE73B64E1B5C6F272EA3BEE5EF458E73E48FF03D/</href>
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="1">
+    <Style id="5">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>0.85</scale>
         <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/14289460640485043387/EA18692FECFB7B91D40132CD3BD38252F3DE33E9/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="1">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/14289460640485043387/EA18692FECFB7B91D40132CD3BD38252F3DE33E9/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="1">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/14289460640485043387/EA18692FECFB7B91D40132CD3BD38252F3DE33E9/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="1">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/14289460640485043387/EA18692FECFB7B91D40132CD3BD38252F3DE33E9/</href>
+          <href>https://steamusercontent-a.akamaihd.net/ugc/958597478463059274/DE73B64E1B5C6F272EA3BEE5EF458E73E48FF03D/</href>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="6">
       <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/15510976392467652561/752BABF0923C5D840478F420B17EDAF8A233BA77/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="10">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/15510976392467652561/752BABF0923C5D840478F420B17EDAF8A233BA77/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="6">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/15510976392467652561/752BABF0923C5D840478F420B17EDAF8A233BA77/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="3">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/15510976392467652561/752BABF0923C5D840478F420B17EDAF8A233BA77/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="10">
-      <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/15510976392467652561/752BABF0923C5D840478F420B17EDAF8A233BA77/</href>
         </Icon>
@@ -1939,143 +1843,31 @@
     </Style>
     <Style id="9">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/15510976392467652561/752BABF0923C5D840478F420B17EDAF8A233BA77/</href>
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="20">
+    <Style id="11">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>0.85</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/17356976762857751925/26B1A940DC13B7DF454A932E6488014440F176D9/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="11">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/17356976762857751925/26B1A940DC13B7DF454A932E6488014440F176D9/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="11">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/13663688867452760931/BC56A0823234FC1D531969A3C7752F6AC7714BEC/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="11">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/13663688867452760931/BC56A0823234FC1D531969A3C7752F6AC7714BEC/</href>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="16">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/13663688867452760931/BC56A0823234FC1D531969A3C7752F6AC7714BEC/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="9">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/13663688867452760931/BC56A0823234FC1D531969A3C7752F6AC7714BEC/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="10">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/12682277738027325253/D04F5CA5A7A34C56688EB4B9288AE1F3744860DB/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="0">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/12682277738027325253/D04F5CA5A7A34C56688EB4B9288AE1F3744860DB/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="0">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/12682277738027325253/D04F5CA5A7A34C56688EB4B9288AE1F3744860DB/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="0">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/12682277738027325253/D04F5CA5A7A34C56688EB4B9288AE1F3744860DB/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="0">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/11085328559751288507/B3E9EF85CDD90E617B4BB359AD6CDAB8B504565E/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="0">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/11085328559751288507/B3E9EF85CDD90E617B4BB359AD6CDAB8B504565E/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="0">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/11085328559751288507/B3E9EF85CDD90E617B4BB359AD6CDAB8B504565E/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="0">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/11085328559751288507/B3E9EF85CDD90E617B4BB359AD6CDAB8B504565E/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/15707872680317264890/7E4A02BFAEABD6A47341F13F9E6798A865D84C01/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/15707872680317264890/7E4A02BFAEABD6A47341F13F9E6798A865D84C01/</href>
         </Icon>
       </IconStyle>
     </Style>
     <Style id="Interdiction">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/17848145364042574490/40D2F39F3AEDD34BC1A4FAC894CC97D49EF88AE1/</href>
         </Icon>
@@ -2145,17 +1937,9 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="5">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/17823480101379180966/B58CD2BA9BFF66E89DAFA90125FD88F66CE111A7/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
     <Style id="WPStrikeMissionA">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/17642759991569288217/8FC8F2B4D002CD05A83478631ADEB96F482B08E6/</href>
         </Icon>
@@ -2163,143 +1947,7 @@
     </Style>
     <Style id="Refugees">
       <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/10867972746785197162/08EAE1B26252949762A184DF81961A56023AF707/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Refugees">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/10867972746785197162/08EAE1B26252949762A184DF81961A56023AF707/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Refugees">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/10867972746785197162/08EAE1B26252949762A184DF81961A56023AF707/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Refugees">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/10867972746785197162/08EAE1B26252949762A184DF81961A56023AF707/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/15707872680317264890/7E4A02BFAEABD6A47341F13F9E6798A865D84C01/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Refugees">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/10867972746785197162/08EAE1B26252949762A184DF81961A56023AF707/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Refugees">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/10867972746785197162/08EAE1B26252949762A184DF81961A56023AF707/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="10">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/12682277738027325253/D04F5CA5A7A34C56688EB4B9288AE1F3744860DB/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="10">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/12682277738027325253/D04F5CA5A7A34C56688EB4B9288AE1F3744860DB/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="0">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/11085328559751288507/B3E9EF85CDD90E617B4BB359AD6CDAB8B504565E/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="3">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/11085328559751288507/B3E9EF85CDD90E617B4BB359AD6CDAB8B504565E/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="3">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/17823480101379180966/B58CD2BA9BFF66E89DAFA90125FD88F66CE111A7/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="6">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/17823480101379180966/B58CD2BA9BFF66E89DAFA90125FD88F66CE111A7/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="1">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/17823480101379180966/B58CD2BA9BFF66E89DAFA90125FD88F66CE111A7/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="10">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/17823480101379180966/B58CD2BA9BFF66E89DAFA90125FD88F66CE111A7/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Interdiction">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/17848145364042574490/40D2F39F3AEDD34BC1A4FAC894CC97D49EF88AE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="0">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/14289460640485043387/EA18692FECFB7B91D40132CD3BD38252F3DE33E9/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Refugees">
-      <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/10867972746785197162/08EAE1B26252949762A184DF81961A56023AF707/</href>
         </Icon>
@@ -2318,62 +1966,6 @@
         <scale>1.7</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/10827471571507414428/C9376FC5447EF91626E1D371D5175B37A5C7D1F3/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="Interdiction">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/17848145364042574490/40D2F39F3AEDD34BC1A4FAC894CC97D49EF88AE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/10144907398872417582/74701FE7D2FE1F8C465CD8B717764EDEC0C1BF6C/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/10144907398872417582/74701FE7D2FE1F8C465CD8B717764EDEC0C1BF6C/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/10144907398872417582/74701FE7D2FE1F8C465CD8B717764EDEC0C1BF6C/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/10144907398872417582/74701FE7D2FE1F8C465CD8B717764EDEC0C1BF6C/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/10144907398872417582/74701FE7D2FE1F8C465CD8B717764EDEC0C1BF6C/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/10144907398872417582/74701FE7D2FE1F8C465CD8B717764EDEC0C1BF6C/</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -3968,6 +3560,13 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>8</name>
+        <styleUrl>#8</styleUrl>
+        <Point>
+          <coordinates>11.110933256024646,52.163034334435444</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name></name>
         <styleUrl>#</styleUrl>
         <Point>
@@ -4115,6 +3714,69 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>15</name>
+        <styleUrl>#15</styleUrl>
+        <Point>
+          <coordinates>11.274651662131081,51.888688760442065</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15</name>
+        <styleUrl>#15</styleUrl>
+        <Point>
+          <coordinates>10.943772509768506,52.17069942010102</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15</name>
+        <styleUrl>#15</styleUrl>
+        <Point>
+          <coordinates>10.982455531631668,52.110144953946225</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14</name>
+        <styleUrl>#14</styleUrl>
+        <Point>
+          <coordinates>11.335639844807583,53.4566383987376</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13</name>
+        <styleUrl>#13</styleUrl>
+        <Point>
+          <coordinates>11.250766131890343,53.42246173557379</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15</name>
+        <styleUrl>#15</styleUrl>
+        <Point>
+          <coordinates>10.195782355948557,53.52565441343953</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15</name>
+        <styleUrl>#15</styleUrl>
+        <Point>
+          <coordinates>10.365032973167098,52.32287410626053</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5</name>
+        <styleUrl>#5</styleUrl>
+        <Point>
+          <coordinates>10.962016801890046,52.93087260113834</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15</name>
+        <styleUrl>#15</styleUrl>
+        <Point>
+          <coordinates>9.240929587317162,53.33996992542056</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>6</name>
         <styleUrl>#6</styleUrl>
         <Point>
@@ -4199,6 +3861,104 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>5</name>
+        <styleUrl>#5</styleUrl>
+        <Point>
+          <coordinates>11.136761144697896,52.71764572159039</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4</name>
+        <styleUrl>#4</styleUrl>
+        <Point>
+          <coordinates>11.146961623903389,52.86749491709646</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2</name>
+        <styleUrl>#2</styleUrl>
+        <Point>
+          <coordinates>11.343276613160826,52.9075896426837</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15</name>
+        <styleUrl>#15</styleUrl>
+        <Point>
+          <coordinates>11.05647935175856,53.80812281343066</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15</name>
+        <styleUrl>#15</styleUrl>
+        <Point>
+          <coordinates>11.4498567756203,53.68358263221834</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11</name>
+        <styleUrl>#11</styleUrl>
+        <Point>
+          <coordinates>11.33634103878079,53.65473472498121</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14</name>
+        <styleUrl>#14</styleUrl>
+        <Point>
+          <coordinates>11.160583887064758,51.97562313109948</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13</name>
+        <styleUrl>#13</styleUrl>
+        <Point>
+          <coordinates>11.16974144504907,52.49152818968737</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13</name>
+        <styleUrl>#13</styleUrl>
+        <Point>
+          <coordinates>12.402961590388978,53.42921917384684</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15</name>
+        <styleUrl>#15</styleUrl>
+        <Point>
+          <coordinates>12.16274251404095,51.972247672064555</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5</name>
+        <styleUrl>#5</styleUrl>
+        <Point>
+          <coordinates>11.750890577046963,52.0788795765524</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8</name>
+        <styleUrl>#8</styleUrl>
+        <Point>
+          <coordinates>11.889323744539935,52.54848457700824</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5</name>
+        <styleUrl>#5</styleUrl>
+        <Point>
+          <coordinates>12.955611439471463,52.384157230199264</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11</name>
+        <styleUrl>#11</styleUrl>
+        <Point>
+          <coordinates>11.801575811638411,53.29315069360191</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>10</name>
         <styleUrl>#10</styleUrl>
         <Point>
@@ -4255,6 +4015,20 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>15</name>
+        <styleUrl>#15</styleUrl>
+        <Point>
+          <coordinates>12.941081005670327,52.159141271578214</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15</name>
+        <styleUrl>#15</styleUrl>
+        <Point>
+          <coordinates>12.887837818229132,53.59929762073777</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name></name>
         <styleUrl>#</styleUrl>
         <Point>
@@ -4269,10 +4043,38 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>13</name>
+        <styleUrl>#13</styleUrl>
+        <Point>
+          <coordinates>11.631621580670053,53.70131096437523</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Interdiction</name>
         <styleUrl>#Interdiction</styleUrl>
         <Point>
           <coordinates>11.834349933865958,53.08171937770107</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10</name>
+        <styleUrl>#10</styleUrl>
+        <Point>
+          <coordinates>11.220615721982012,53.28877488493174</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15</name>
+        <styleUrl>#15</styleUrl>
+        <Point>
+          <coordinates>10.961514339356972,52.44746785645913</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11</name>
+        <styleUrl>#11</styleUrl>
+        <Point>
+          <coordinates>11.315772188174876,51.89145548829184</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -4406,6 +4208,13 @@
         <styleUrl>#0</styleUrl>
         <Point>
           <coordinates>11.671614960696225,52.118875631403256</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8</name>
+        <styleUrl>#8</styleUrl>
+        <Point>
+          <coordinates>12.399434478703215,52.28652117481655</coordinates>
         </Point>
       </Placemark>
       <Placemark>

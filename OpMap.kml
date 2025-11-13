@@ -499,7 +499,7 @@
     </Style>
     <Style id="SOC-Uedem">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/13299153217850256376/3F9DDEE05B4B77E00BA566358CC59F207D963FCB/</href>
         </Icon>
@@ -507,7 +507,7 @@
     </Style>
     <Style id="CRCErndtebruck">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/17513315737680553650/515D3ECD169214B684502F314DDDD0A36BD0AB8D/</href>
         </Icon>
@@ -515,7 +515,7 @@
     </Style>
     <Style id="SOC-Brokzetel">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/13337037054354838353/E62816D11F048A9A7B6C4B095B9BAE644E8FC312/</href>
         </Icon>
@@ -523,7 +523,7 @@
     </Style>
     <Style id="HQCottbus">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/17678587528004496127/4CA5431D56E5514FF10D0905CD02454CF76CD3C2/</href>
         </Icon>
@@ -531,7 +531,7 @@
     </Style>
     <Style id="FuTB-61">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/10391803521500627000/AE8FC93C72A382F34AD5FFA59CDEC49A2137D7CD/</href>
         </Icon>
@@ -539,7 +539,7 @@
     </Style>
     <Style id="FuTB-31">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/9790113814643462176/67B4D9707EC3864DC41A36F60A32BBC91A20DDFA/</href>
         </Icon>
@@ -547,7 +547,7 @@
     </Style>
     <Style id="FuTB-33">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/11699551960362363460/B7ECBD7F62A41D6A9791EAF865A30C0698B231D3/</href>
         </Icon>
@@ -555,7 +555,7 @@
     </Style>
     <Style id="FuTB-23">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/16276748280352460209/8C38720CCEFE3FF1A68A4C8E71456ACD4C133763/</href>
         </Icon>
@@ -563,7 +563,7 @@
     </Style>
     <Style id="FuTB-41">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/15924110641114755292/2A48EBF8EBAF8A40FD6E3AEC9E73D7C238526B7F/</href>
         </Icon>
@@ -571,71 +571,7 @@
     </Style>
     <Style id="15">
       <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/958597478463059274/DE73B64E1B5C6F272EA3BEE5EF458E73E48FF03D/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="15">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/958597478463059274/DE73B64E1B5C6F272EA3BEE5EF458E73E48FF03D/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="15">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/958597478463059274/DE73B64E1B5C6F272EA3BEE5EF458E73E48FF03D/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="15">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/958597478463059274/DE73B64E1B5C6F272EA3BEE5EF458E73E48FF03D/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="15">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/958597478463059274/DE73B64E1B5C6F272EA3BEE5EF458E73E48FF03D/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="15">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/958597478463059274/DE73B64E1B5C6F272EA3BEE5EF458E73E48FF03D/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="15">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/958597478463059274/DE73B64E1B5C6F272EA3BEE5EF458E73E48FF03D/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="15">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/958597478463059274/DE73B64E1B5C6F272EA3BEE5EF458E73E48FF03D/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="15">
-      <IconStyle>
-        <scale>1.7</scale>
+        <scale>0.85</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/958597478463059274/DE73B64E1B5C6F272EA3BEE5EF458E73E48FF03D/</href>
         </Icon>
@@ -715,159 +651,7 @@
     </Style>
     <Style id="AirGroundTargetTracking">
       <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="AirGroundTargetTracking">
-      <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/18101100600751985450/9092737E61804953292E42E3AA361E3C4BA71DE1/</href>
         </Icon>
@@ -875,7 +659,7 @@
     </Style>
     <Style id="NATOMissionStartA-Map">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/17854298178359995968/010B73C2A6D09E6734BE62F73953F16A3FFE1362/</href>
         </Icon>
@@ -883,7 +667,7 @@
     </Style>
     <Style id="NATOTarget">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/12924182098333179535/9B1A078995F485E8DE9093DD36F3AAB27501FE32/</href>
         </Icon>
@@ -891,7 +675,7 @@
     </Style>
     <Style id="NATO-CAPUndetDet-B">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/13903470460292776938/05E15C83236BC86FA5C19030F671F0A25F153031/</href>
         </Icon>
@@ -899,7 +683,7 @@
     </Style>
     <Style id="NATOForm-up/RecoveryPoint">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/11525173211218728653/70242E5B6C3ECF11B5EF0870303ED1D0DA0D4F36/</href>
         </Icon>
@@ -907,7 +691,7 @@
     </Style>
     <Style id="NATO-CAPUndetDet-C">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/17694546121058188376/92EB2C61E7C59F86D562A0F46575BEE3BDDB88F2/</href>
         </Icon>
@@ -915,7 +699,7 @@
     </Style>
     <Style id="CRCSkrydstrup">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/13146211937765998656/D27BBCA3D2D97BC4D68AFDECD11EC1C2FD26D1E8/</href>
         </Icon>
@@ -939,17 +723,9 @@
     </Style>
     <Style id="WP-CAPUndetDet-2">
       <IconStyle>
-        <scale>1.7</scale>
+        <scale>1.25</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/14380899308696070251/78F1CE582E0CF61C6C7A3568B46B24DDA283FF06/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="NATO-CAPUndetDet-B">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/13903470460292776938/05E15C83236BC86FA5C19030F671F0A25F153031/</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -969,14 +745,6 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="NATO-CAPUndetDet-B">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/13903470460292776938/05E15C83236BC86FA5C19030F671F0A25F153031/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
     <Style id="31SqdBE">
       <IconStyle>
         <scale>1.7</scale>
@@ -985,27 +753,11 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="NATO-CAPUndetDet-C">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/17694546121058188376/92EB2C61E7C59F86D562A0F46575BEE3BDDB88F2/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
     <Style id="787IAP/2">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/12240369205209412759/24756FC067DAD9A1AF49A2C591DB924A8FF0537E/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="NATOMissionStartA-Map">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/17854298178359995968/010B73C2A6D09E6734BE62F73953F16A3FFE1362/</href>
         </Icon>
       </IconStyle>
     </Style>

@@ -1,7 +1,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
   <Document>
-    <Name>TS_Save_124</Name>
-    <Style id="7AbDNF">
+    <Name>TS_Save_124 (2)</Name>
+    <Style id="7AbD/NF">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -9,7 +9,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="103AbDNF">
+    <Style id="103AbD/NF">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -89,7 +89,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="62MDiv">
+    <Style id="6/2MDiv">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -97,7 +97,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="22MDiv">
+    <Style id="2/2MDiv">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -105,7 +105,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="82MDiv">
+    <Style id="8/2MDiv">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -113,7 +113,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="LF6F2MDiv">
+    <Style id="LF6F/2MDiv">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -121,7 +121,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="HQ9ID">
+    <Style id="HQ/9ID">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -129,7 +129,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="819ID">
+    <Style id="81/9ID">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -137,7 +137,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="299ID">
+    <Style id="2/99ID">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -153,7 +153,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="19ID">
+    <Style id="1/9ID">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -161,7 +161,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="39ID">
+    <Style id="3/9ID">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -171,39 +171,7 @@
     </Style>
     <Style id="15">
       <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/958597478463059274/DE73B64E1B5C6F272EA3BEE5EF458E73E48FF03D/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="15">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/958597478463059274/DE73B64E1B5C6F272EA3BEE5EF458E73E48FF03D/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="15">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/958597478463059274/DE73B64E1B5C6F272EA3BEE5EF458E73E48FF03D/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="15">
-      <IconStyle>
-        <scale>1.7</scale>
-        <Icon>
-          <href>https://steamusercontent-a.akamaihd.net/ugc/958597478463059274/DE73B64E1B5C6F272EA3BEE5EF458E73E48FF03D/</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="15">
-      <IconStyle>
-        <scale>1.7</scale>
+        <scale>0.85</scale>
         <Icon>
           <href>https://steamusercontent-a.akamaihd.net/ugc/958597478463059274/DE73B64E1B5C6F272EA3BEE5EF458E73E48FF03D/</href>
         </Icon>
@@ -273,7 +241,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="FRSSBN1LeRedou">
+    <Style id="FRSSBN1LeRedou.">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -281,7 +249,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="FRSAGGLeyues">
+    <Style id="FRSAGG.Leyues">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -289,7 +257,7 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="FRR99FochCarrier">
+    <Style id="FRR99Foch(Carrier)">
       <IconStyle>
         <scale>1.7</scale>
         <Icon>
@@ -332,63 +300,63 @@
     <Folder>
       <name>NATO_StratMap</name>
       <Placemark>
-        <name>2M Div HQ</name>
+        <name>2MDivHQ</name>
         <styleUrl>#2MDivHQ</styleUrl>
         <Point>
           <coordinates>-66.11167957131133,68.1226521686787</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>6/2M Div</name>
-        <styleUrl>#62MDiv</styleUrl>
+        <name>6/2MDiv</name>
+        <styleUrl>#6/2MDiv</styleUrl>
         <Point>
           <coordinates>-66.23128696333777,68.13111272462615</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>2/2M Div</name>
-        <styleUrl>#22MDiv</styleUrl>
+        <name>2/2MDiv</name>
+        <styleUrl>#2/2MDiv</styleUrl>
         <Point>
           <coordinates>-66.29710787496506,68.0975444898446</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>8/2M Div</name>
-        <styleUrl>#82MDiv</styleUrl>
+        <name>8/2MDiv</name>
+        <styleUrl>#8/2MDiv</styleUrl>
         <Point>
           <coordinates>-66.26299466309226,68.12440103528769</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>LF6F/2M Div</name>
-        <styleUrl>#LF6F2MDiv</styleUrl>
+        <name>LF6F/2MDiv</name>
+        <styleUrl>#LF6F/2MDiv</styleUrl>
         <Point>
           <coordinates>-66.20064324984244,68.15906890122773</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>HQ/9ID</name>
-        <styleUrl>#HQ9ID</styleUrl>
+        <styleUrl>#HQ/9ID</styleUrl>
         <Point>
           <coordinates>-69.77850471343191,68.08638554233086</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>81/9ID</name>
-        <styleUrl>#819ID</styleUrl>
+        <styleUrl>#81/9ID</styleUrl>
         <Point>
           <coordinates>-69.61952449177014,68.0087101798493</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>2/9 9ID</name>
-        <styleUrl>#299ID</styleUrl>
+        <name>2/99ID</name>
+        <styleUrl>#2/99ID</styleUrl>
         <Point>
           <coordinates>-69.61210461825416,68.00650126888111</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>2-9 9ID Attk Av</name>
+        <name>2-99IDAttkAv</name>
         <styleUrl>#2-99IDAttkAv</styleUrl>
         <Point>
           <coordinates>-69.60284201548491,68.0300574215042</coordinates>
@@ -396,90 +364,90 @@
       </Placemark>
       <Placemark>
         <name>1/9ID</name>
-        <styleUrl>#19ID</styleUrl>
+        <styleUrl>#1/9ID</styleUrl>
         <Point>
           <coordinates>-69.69804903252546,67.96130158125438</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>3/9ID</name>
-        <styleUrl>#39ID</styleUrl>
+        <styleUrl>#3/9ID</styleUrl>
         <Point>
           <coordinates>-69.69486305618625,67.99657341284357</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>2 82AbD</name>
+        <name>282AbD</name>
         <styleUrl>#282AbD</styleUrl>
         <Point>
           <coordinates>-20.045906976436896,64.5640459957162</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>HQ 82 AbD</name>
+        <name>HQ82AbD</name>
         <styleUrl>#HQ82AbD</styleUrl>
         <Point>
           <coordinates>-22.1685105894727,64.57772617062335</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>3 82AbD</name>
+        <name>382AbD</name>
         <styleUrl>#382AbD</styleUrl>
         <Point>
           <coordinates>-17.923079824270733,64.55059461243006</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>1 82AbD</name>
+        <name>182AbD</name>
         <styleUrl>#182AbD</styleUrl>
         <Point>
           <coordinates>-22.14729516734827,65.49214701491495</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>82 Attk Av</name>
+        <name>82AttkAv</name>
         <styleUrl>#82AttkAv</styleUrl>
         <Point>
           <coordinates>-20.025351651085696,65.47866821726785</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>NO Oslo</name>
+        <name>NOOslo</name>
         <styleUrl>#NOOslo</styleUrl>
         <Point>
           <coordinates>1.1141264174191026,62.388452919887534</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>UK ASW 2 Amazon</name>
+        <name>UKASW2Amazon</name>
         <styleUrl>#UKASW2Amazon</styleUrl>
         <Point>
           <coordinates>-8.390502697169293,63.86514340067202</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>FR SSBN 1 Le Redou.</name>
-        <styleUrl>#FRSSBN1LeRedou</styleUrl>
+        <name>FRSSBN1LeRedou.</name>
+        <styleUrl>#FRSSBN1LeRedou.</styleUrl>
         <Point>
           <coordinates>-19.093489155019647,50.82701531557945</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>FR SAG G. Leyues</name>
-        <styleUrl>#FRSAGGLeyues</styleUrl>
+        <name>FRSAGG.Leyues</name>
+        <styleUrl>#FRSAGG.Leyues</styleUrl>
         <Point>
           <coordinates>-12.98643419030591,48.82356471226326</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>FR R99 Foch (Carrier)</name>
-        <styleUrl>#FRR99FochCarrier</styleUrl>
+        <name>FRR99Foch(Carrier)</name>
+        <styleUrl>#FRR99Foch(Carrier)</styleUrl>
         <Point>
           <coordinates>-18.958626627072544,46.701528939789696</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>NATO convoy 1</name>
+        <name>NATOconvoy1</name>
         <styleUrl>#NATOconvoy1</styleUrl>
         <Point>
           <coordinates>-30.61536022362836,65.60962527580918</coordinates>
@@ -489,21 +457,21 @@
     <Folder>
       <name>Pact_StratMap</name>
       <Placemark>
-        <name>7 AbD/NF</name>
-        <styleUrl>#7AbDNF</styleUrl>
+        <name>7AbD/NF</name>
+        <styleUrl>#7AbD/NF</styleUrl>
         <Point>
           <coordinates>21.2785277318024,55.27221003068372</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>103 AbD/NF</name>
-        <styleUrl>#103AbDNF</styleUrl>
+        <name>103AbD/NF</name>
+        <styleUrl>#103AbD/NF</styleUrl>
         <Point>
           <coordinates>21.264146628587106,55.26024298089543</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>WF 11GA HQ</name>
+        <name>WF11GAHQ</name>
         <styleUrl>#WF11GAHQ</styleUrl>
         <Point>
           <coordinates>30.99409657625234,52.55876183210468</coordinates>
@@ -538,7 +506,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>WF 8TA HQ</name>
+        <name>WF8TAHQ</name>
         <styleUrl>#WF8TAHQ</styleUrl>
         <Point>
           <coordinates>19.522907313492844,52.93280184106657</coordinates>
@@ -559,28 +527,28 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>SO Kirov</name>
+        <name>SOKirov</name>
         <styleUrl>#SOKirov</styleUrl>
         <Point>
           <coordinates>31.325776422609295,71.51496219085907</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>SO SSN 7 Victor</name>
+        <name>SOSSN7Victor</name>
         <styleUrl>#SOSSN7Victor</styleUrl>
         <Point>
           <coordinates>-16.34796278750249,69.551886095918</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>SO SSN 3 Sierra</name>
+        <name>SOSSN3Sierra</name>
         <styleUrl>#SOSSN3Sierra</styleUrl>
         <Point>
           <coordinates>-20.64518287402033,69.28983847887466</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>SO SSN 5 Victor</name>
+        <name>SOSSN5Victor</name>
         <styleUrl>#SOSSN5Victor</styleUrl>
         <Point>
           <coordinates>-14.485325984455194,68.43461664752867</coordinates>

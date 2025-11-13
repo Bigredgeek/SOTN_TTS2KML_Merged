@@ -32,6 +32,24 @@ copy "%SAVE_FILE%" "AnalyzeTTS-TacMap\TTS2KML\"
 copy "%SAVE_FILE%" "AnalyzeTTS-StratMap\TTS2KML\"
 copy "%SAVE_FILE%" "AnalyzeTTS-OpMap\TTS2KML\"
 
+REM Clean up old KML files to avoid conflicts
+echo Cleaning old KML files...
+for %%F in ("AnalyzeTTS-TacMap\TTS2KML\*.kml") do (
+    if /I not "%%~nF"=="Sample" (
+        del "%%~fF"
+    )
+)
+for %%F in ("AnalyzeTTS-StratMap\TTS2KML\*.kml") do (
+    if /I not "%%~nF"=="Sample" (
+        del "%%~fF"
+    )
+)
+for %%F in ("AnalyzeTTS-OpMap\TTS2KML\*.kml") do (
+    if /I not "%%~nF"=="Sample" (
+        del "%%~fF"
+    )
+)
+
 REM Process each map
 echo Processing Tactical Map...
 cd AnalyzeTTS-TacMap\TTS2KML
@@ -130,6 +148,23 @@ echo Cleaning up...
 del "AnalyzeTTS-TacMap\TTS2KML\%SAVE_FILE%"
 del "AnalyzeTTS-StratMap\TTS2KML\%SAVE_FILE%"
 del "AnalyzeTTS-OpMap\TTS2KML\%SAVE_FILE%"
+
+REM Clean up generated KML files in subdirectories
+for %%F in ("AnalyzeTTS-TacMap\TTS2KML\*.kml") do (
+    if /I not "%%~nF"=="Sample" (
+        del "%%~fF"
+    )
+)
+for %%F in ("AnalyzeTTS-StratMap\TTS2KML\*.kml") do (
+    if /I not "%%~nF"=="Sample" (
+        del "%%~fF"
+    )
+)
+for %%F in ("AnalyzeTTS-OpMap\TTS2KML\*.kml") do (
+    if /I not "%%~nF"=="Sample" (
+        del "%%~fF"
+    )
+)
 
 echo Done! KML files have been generated.
 pause
